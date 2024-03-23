@@ -1,0 +1,564 @@
+Sector,Region,Market,Rep,Product,Date,Weekday,Customer,Quantity,Revenue,UnitPrice,Profit,Cost
+Manufacturing,Midwest,Detroit,Henry,Gizmo,1/1/2022,Sat,Ford,1000,22810,22.81,10220,12590
+Communications,Northeast,New York,Rudi,Gadget,1/2/2022,Sun,Verizon,100,2257,22.57,984,1273
+Energy,South,Houston,Red,Gizmo,1/4/2022,Tue,Valero Energy,400,9152,22.88,4088,5064
+Healthcare,Midwest,Louisville,Krys,Gadget,1/4/2022,Tue,Cardinal Health,800,18552,23.19,7872,10680
+Financial,West,NoCal,Carl,Gadget,1/7/2022,Fri,Wells Fargo,1000,21730,21.73,9840,11890
+Manufacturing,Midwest,Detroit,Henry,Widget,1/7/2022,Fri,General Motors,400,8456,21.14,3388,5068
+Manufacturing,Midwest,Detroit,Henry,Widget,1/9/2022,Sun,General Motors,800,16416,20.52,6776,9640
+Retail,South,Arkla,Sam,Gizmo,1/10/2022,Mon,Wal-Mart,900,21438,23.82,9198,12240
+Manufacturing,Northeast,New York,Rudi,Widget,1/12/2022,Wed,IBM,300,6267,20.89,2541,3726
+Communications,South,Atlanta,Scarlett,Gizmo,1/14/2022,Fri,AT&T,100,2401,24.01,1022,1379
+Communications,Northeast,New York,Rudi,Widget,1/15/2022,Sat,Verizon,500,9345,18.69,4235,5110
+Financial,Northeast,New York,Rudi,Widget,1/16/2022,Sun,CitiGroup,600,11628,19.38,5082,6546
+Communications,Northeast,New York,Rudi,Gadget,1/19/2022,Wed,Verizon,100,2042,20.42,984,1058
+Healthcare,Northeast,New York,Rudi,Doodads,1/21/2022,Fri,Pfizer,800,14440,18.05,6776,7664
+Healthcare,Midwest,Louisville,Krys,Doodads,1/21/2022,Fri,Cardinal Health,200,3552,17.76,1694,1858
+Manufacturing,Midwest,Detroit,Henry,Widget,1/23/2022,Sun,General Motors,800,14592,18.24,6776,7816
+Manufacturing,Northeast,New York,Rudi,Widget,1/24/2022,Mon,IBM,600,12606,21.01,5082,7524
+Financial,Northeast,New York,Rudi,Widget,1/25/2022,Tue,CitiGroup,1000,20770,20.77,8470,12300
+Manufacturing,Northeast,New York,Rudi,Widget,1/26/2022,Wed,IBM,400,8128,20.32,3388,4740
+Energy,South,Houston,Red,Widget,1/29/2022,Sat,Valero Energy,400,7136,17.84,3388,3748
+Manufacturing,Midwest,Detroit,Henry,Gadget,1/29/2022,Sat,General Motors,700,17150,24.5,6888,10262
+Retail,South,Arkla,Sam,Gadget,1/30/2022,Sun,Wal-Mart,300,6714,22.38,2952,3762
+Manufacturing,Midwest,Detroit,Henry,Widget,1/31/2022,Mon,General Motors,800,15640,19.55,6776,8864
+Retail,South,Arkla,Sam,Widget,2/1/2022,Tue,Wal-Mart,300,5532,18.44,2541,2991
+Communications,Northeast,New York,Rudi,Gadget,2/3/2022,Thu,Verizon,800,17160,21.45,7872,9288
+Manufacturing,Northeast,New York,Rudi,Gadget,2/6/2022,Sun,General Electric,900,21708,24.12,8856,12852
+Manufacturing,Northeast,New York,Rudi,Widget,2/7/2022,Mon,IBM,1000,19890,19.89,8470,11420
+Financial,Northeast,New York,Rudi,Widget,2/8/2022,Tue,CitiGroup,100,1817,18.17,847,970
+Manufacturing,Midwest,Detroit,Henry,Widget,2/9/2022,Wed,General Motors,300,5157,17.19,2541,2616
+Financial,Northeast,New York,Rudi,Gadget,2/14/2022,Mon,CitiGroup,700,13867,19.81,6888,6979
+Manufacturing,Midwest,Chicago,Mike,Gizmo,2/16/2022,Wed,Boeing,800,16936,21.17,8176,8760
+Energy,South,Houston,Red,Widget,2/17/2022,Thu,Exxon Mobil,600,11430,19.05,5082,6348
+Retail,South,Arkla,Sam,Widget,2/18/2022,Fri,Wal-Mart,1000,20250,20.25,8470,11780
+Retail,South,Arkla,Sam,Widget,2/19/2022,Sat,Wal-Mart,500,10385,20.77,4235,6150
+Energy,South,Houston,Red,Widget,2/20/2022,Sun,Exxon Mobil,600,11124,18.54,5082,6042
+Manufacturing,Midwest,Detroit,Henry,Widget,2/20/2022,Sun,Ford,300,5700,19,2541,3159
+Retail,South,Arkla,Sam,Gizmo,2/20/2022,Sun,Wal-Mart,1000,23810,23.81,10220,13590
+Retail,South,Arkla,Sam,Gizmo,2/23/2022,Wed,Wal-Mart,500,11525,23.05,5110,6415
+Energy,West,NoCal,Carl,Gadget,2/26/2022,Sat,Chevron,900,20610,22.9,8856,11754
+Manufacturing,Midwest,Detroit,Henry,Gadget,2/26/2022,Sat,Ford,600,13206,22.01,5904,7302
+Retail,South,Arkla,Sam,Gizmo,2/26/2022,Sat,Wal-Mart,1000,25140,25.14,10220,14920
+Manufacturing,Midwest,Detroit,Henry,Widget,2/27/2022,Sun,Ford,900,16209,18.01,7623,8586
+Retail,South,Arkla,Sam,Gadget,2/27/2022,Sun,Wal-Mart,400,8708,21.77,3936,4772
+Manufacturing,Midwest,Detroit,Henry,Gizmo,2/28/2022,Mon,General Motors,900,21456,23.84,9198,12258
+Retail,South,Arkla,Sam,Gizmo,3/1/2022,Tue,Wal-Mart,500,10445,20.89,5110,5335
+Manufacturing,Northeast,New York,Rudi,Gadget,3/4/2022,Fri,General Electric,600,14472,24.12,5904,8568
+Retail,South,Arkla,Sam,Gizmo,3/5/2022,Sat,Wal-Mart,200,4262,21.31,2044,2218
+Consumer Goods,Midwest,Cincinnati,Rose,Widget,3/6/2022,Sun,Proctor & Gamble,700,12474,17.82,5929,6545
+Energy,South,Houston,Red,Widget,3/7/2022,Mon,Exxon Mobil,500,10155,20.31,4235,5920
+Retail,South,Arkla,Sam,Gadget,3/10/2022,Thu,Wal-Mart,900,19503,21.67,8856,10647
+Manufacturing,Northeast,New York,Rudi,Widget,3/13/2022,Sun,IBM,100,1819,18.19,847,972
+Financial,Northeast,New York,Rudi,Gizmo,3/14/2022,Mon,CitiGroup,1000,24430,24.43,10220,14210
+Retail,South,Arkla,Sam,Gizmo,3/14/2022,Mon,Wal-Mart,500,10935,21.87,5110,5825
+Energy,West,NoCal,Carl,Widget,3/16/2022,Wed,Chevron,400,8116,20.29,3388,4728
+Financial,Northeast,New York,Rudi,Gizmo,3/17/2022,Thu,CitiGroup,900,18783,20.87,9198,9585
+Retail,South,Arkla,Sam,Widget,3/19/2022,Sat,Wal-Mart,800,16696,20.87,6776,9920
+Manufacturing,Northeast,New York,Rudi,Gadget,3/20/2022,Sun,General Electric,400,7132,17.83,3388,3744
+Manufacturing,Northeast,New York,Rudi,Gizmo,3/21/2022,Mon,General Electric,200,4784,23.92,2044,2740
+Communications,South,Atlanta,Scarlett,Gizmo,3/22/2022,Tue,AT&T,300,6765,22.55,3066,3699
+Retail,South,Arkla,Sam,Widget,3/23/2022,Wed,Wal-Mart,300,5355,17.85,2541,2814
+Retail,South,Arkla,Sam,Widget,3/24/2022,Thu,Wal-Mart,200,3756,18.78,1694,2062
+Manufacturing,Midwest,Detroit,Henry,Gadget,3/25/2022,Fri,General Motors,1000,20090,20.09,9840,10250
+Manufacturing,Midwest,Detroit,Henry,Gizmo,3/26/2022,Sat,Ford,1000,23090,23.09,10220,12870
+Communications,South,Atlanta,Scarlett,Gadget,3/28/2022,Mon,AT&T,900,21357,23.73,8856,12501
+Manufacturing,Midwest,Detroit,Henry,Widget,3/28/2022,Mon,General Motors,300,5358,17.86,2541,2817
+Manufacturing,Northeast,New York,Rudi,Gadget,3/30/2022,Wed,General Electric,800,16016,20.02,7872,8144
+Communications,South,Atlanta,Scarlett,Gizmo,4/1/2022,Fri,AT&T,600,14448,24.08,6132,8316
+Communications,South,Atlanta,Scarlett,Widget,4/2/2022,Sat,AT&T,300,5370,17.9,2541,2829
+Consumer Goods,Midwest,Cincinnati,Rose,Gizmo,4/4/2022,Mon,Proctor & Gamble,800,20408,25.51,8176,12232
+Energy,South,Houston,Red,Gadget,4/4/2022,Mon,Exxon Mobil,400,8632,21.58,3936,4696
+Energy,South,Houston,Red,Gadget,4/4/2022,Mon,Exxon Mobil,300,6588,21.96,2952,3636
+Communications,Northeast,New York,Rudi,Gizmo,4/5/2022,Tue,Verizon,100,2466,24.66,1022,1444
+Financial,South,Charlotte,Lottie,Widget,4/7/2022,Thu,Bank of America,700,14686,20.98,5929,8757
+Manufacturing,Northeast,New York,Rudi,Gadget,4/7/2022,Thu,General Electric,300,5886,19.62,2541,3345
+Energy,South,Houston,Red,Gadget,4/10/2022,Sun,Exxon Mobil,500,12095,24.19,4920,7175
+Manufacturing,Northeast,New York,Rudi,Gizmo,4/11/2022,Mon,IBM,900,19539,21.71,9198,10341
+Manufacturing,Northeast,New York,Rudi,Gadget,4/12/2022,Tue,General Electric,300,6063,20.21,2541,3522
+Manufacturing,Northeast,New York,Rudi,Gadget,4/13/2022,Wed,General Electric,600,11598,19.33,5082,6516
+Financial,Northeast,New York,Rudi,Widget,4/14/2022,Thu,CitiGroup,400,8016,20.04,3388,4628
+Communications,Northeast,New York,Rudi,Gizmo,4/20/2022,Wed,Verizon,1000,21880,21.88,10220,11660
+Healthcare,West,NoCal,Carl,Doodads,4/20/2022,Wed,McKesson,200,4948,24.74,2044,2904
+Retail,South,Arkla,Sam,Gizmo,4/22/2022,Fri,Wal-Mart,700,15834,22.62,7154,8680
+Manufacturing,Midwest,Detroit,Henry,Gadget,4/23/2022,Sat,Ford,100,2457,24.57,984,1473
+Energy,South,Houston,Red,Widget,4/24/2022,Sun,Exxon Mobil,300,5439,18.13,2541,2898
+Retail,South,Arkla,Sam,Gadget,4/25/2022,Mon,Wal-Mart,500,11435,22.87,4920,6515
+Manufacturing,Midwest,Detroit,Henry,Gizmo,4/27/2022,Wed,General Motors,1000,22530,22.53,10220,12310
+Manufacturing,Midwest,Detroit,Henry,Gizmo,4/28/2022,Thu,Ford,1000,25060,25.06,10220,14840
+Energy,South,Houston,Red,Gizmo,4/29/2022,Fri,ConocoPhillips,800,18264,22.83,8176,10088
+Communications,South,Atlanta,Scarlett,Gizmo,4/30/2022,Sat,AT&T,200,4124,20.62,2044,2080
+Manufacturing,Midwest,Detroit,Henry,Widget,5/1/2022,Sun,Ford,200,3802,19.01,1694,2108
+Retail,Midwest,Cincinnati,Rose,Gadget,5/1/2022,Sun,Kroger,800,19520,24.4,7872,11648
+Financial,South,Charlotte,Lottie,Gizmo,5/3/2022,Tue,Bank of America,800,19288,24.11,8176,11112
+Communications,South,Atlanta,Scarlett,Widget,5/5/2022,Thu,AT&T,800,15592,19.49,6776,8816
+Financial,South,Charlotte,Lottie,Gizmo,5/5/2022,Thu,Bank of America,300,6867,22.89,3066,3801
+Communications,South,Atlanta,Scarlett,Widget,5/7/2022,Sat,AT&T,600,12318,20.53,5082,7236
+Financial,South,Charlotte,Lottie,Gadget,5/7/2022,Sat,Bank of America,400,8052,20.13,3936,4116
+Retail,South,Arkla,Sam,Gadget,5/8/2022,Sun,Wal-Mart,800,17544,21.93,7872,9672
+Manufacturing,Northeast,New York,Rudi,Gadget,5/9/2022,Mon,IBM,700,16765,23.95,6888,9877
+Energy,South,Houston,Red,Widget,5/11/2022,Wed,Exxon Mobil,500,8785,17.57,4235,4550
+Retail,South,Arkla,Sam,Gadget,5/12/2022,Thu,Wal-Mart,700,16772,23.96,6888,9884
+Manufacturing,Northeast,New York,Rudi,Gadget,5/13/2022,Fri,General Electric,500,9380,18.76,4235,5145
+Retail,South,Arkla,Sam,Gizmo,5/13/2022,Fri,Wal-Mart,500,12625,25.25,5110,7515
+Manufacturing,Midwest,Chicago,Mike,Widget,5/14/2022,Sat,Boeing,500,9635,19.27,4235,5400
+Financial,South,Charlotte,Lottie,Gadget,5/16/2022,Mon,Bank of America,300,6156,20.52,2952,3204
+Consumer Goods,Midwest,Cincinnati,Rose,Gadget,5/19/2022,Thu,Proctor & Gamble,900,17757,19.73,8856,8901
+Manufacturing,West,NoCal,Carl,Gizmo,5/20/2022,Fri,Hewlett-Packard,200,4846,24.23,2044,2802
+Manufacturing,Northeast,New York,Rudi,Gadget,5/21/2022,Sat,General Electric,600,11208,18.68,5082,6126
+Communications,South,Atlanta,Scarlett,Gadget,5/22/2022,Sun,AT&T,500,10195,20.39,4920,5275
+Communications,Northeast,New York,Rudi,Widget,5/23/2022,Mon,Verizon,200,4012,20.06,1694,2318
+Manufacturing,Midwest,Detroit,Henry,Widget,5/23/2022,Mon,General Motors,700,12803,18.29,5929,6874
+Energy,South,Houston,Red,Gadget,5/24/2022,Tue,Exxon Mobil,100,2319,23.19,984,1335
+Manufacturing,Midwest,Detroit,Henry,Widget,5/24/2022,Tue,General Motors,600,11700,19.5,5082,6618
+Energy,South,Houston,Red,Gadget,5/26/2022,Thu,Exxon Mobil,600,12048,20.08,5904,6144
+Manufacturing,Northeast,New York,Rudi,Gizmo,5/28/2022,Sat,IBM,700,14469,20.67,7154,7315
+Energy,South,Houston,Red,Widget,5/29/2022,Sun,Exxon Mobil,900,17964,19.96,7623,10341
+Communications,South,Atlanta,Scarlett,Widget,5/30/2022,Mon,AT&T,700,13412,19.16,5929,7483
+Manufacturing,Midwest,Detroit,Henry,Gizmo,5/30/2022,Mon,General Motors,300,6660,22.2,3066,3594
+Manufacturing,Northeast,New York,Rudi,Gizmo,5/31/2022,Tue,General Electric,900,18918,21.02,9198,9720
+Manufacturing,Midwest,Detroit,Henry,Widget,6/1/2022,Wed,General Motors,700,13986,19.98,5929,8057
+Manufacturing,Northeast,New York,Rudi,Gadget,6/3/2022,Fri,IBM,1000,20480,20.48,9840,10640
+Retail,South,Arkla,Sam,Gizmo,6/6/2022,Mon,Wal-Mart,200,4264,21.32,2044,2220
+Retail,Midwest,Minneapolis,Heidi,Gadget,6/7/2022,Tue,Target,200,4282,21.41,1968,2314
+Manufacturing,Northeast,New York,Rudi,Gizmo,6/8/2022,Wed,IBM,500,12135,24.27,5110,7025
+Manufacturing,Northeast,New York,Rudi,Gadget,6/10/2022,Fri,IBM,200,4286,21.43,1968,2318
+Communications,Northeast,New York,Rudi,Gizmo,6/12/2022,Sun,Verizon,500,10650,21.3,5110,5540
+Communications,Northeast,New York,Rudi,Widget,6/13/2022,Mon,Verizon,1000,19630,19.63,8470,11160
+Manufacturing,Northeast,New York,Rudi,Gadget,6/14/2022,Tue,General Electric,700,12838,18.34,5929,6909
+Manufacturing,Midwest,Detroit,Henry,Widget,6/15/2022,Wed,Ford,200,3856,19.28,1694,2162
+Healthcare,Northeast,New York,Rudi,Gadget,6/19/2022,Sun,Pfizer,1000,22140,22.14,9840,12300
+Manufacturing,Northeast,New York,Rudi,Widget,6/23/2022,Thu,IBM,500,10330,20.66,4235,6095
+Energy,South,Houston,Red,Widget,6/24/2022,Fri,Exxon Mobil,100,1882,18.82,847,1035
+Manufacturing,Midwest,Detroit,Henry,Gadget,6/25/2022,Sat,Ford,100,2221,22.21,984,1237
+Energy,South,Houston,Red,Widget,6/26/2022,Sun,Exxon Mobil,700,13734,19.62,5929,7805
+Financial,South,Charlotte,Lottie,Gadget,6/26/2022,Sun,Bank of America,800,15856,19.82,7872,7984
+Financial,West,NoCal,Carl,Gadget,6/27/2022,Mon,Wells Fargo,200,4754,23.77,1968,2786
+Energy,South,Houston,Red,Gadget,6/30/2022,Thu,Exxon Mobil,100,2231,22.31,984,1247
+Manufacturing,Northeast,New York,Rudi,Gizmo,7/2/2022,Sat,General Electric,900,21960,24.4,9198,12762
+Consumer Goods,Midwest,Chicago,Mike,Gizmo,7/3/2022,Sun,Kraft Foods,300,7167,23.89,3066,4101
+Retail,South,Arkla,Sam,Gizmo,7/3/2022,Sun,Wal-Mart,900,22716,25.24,9198,13518
+Communications,South,Atlanta,Scarlett,Gizmo,7/4/2022,Mon,AT&T,900,19062,21.18,9198,9864
+Manufacturing,Midwest,Detroit,Henry,Gizmo,7/5/2022,Tue,General Motors,300,7593,25.31,3066,4527
+Energy,South,Houston,Red,Gadget,7/8/2022,Fri,Exxon Mobil,900,21168,23.52,8856,12312
+Manufacturing,Midwest,Chicago,Mike,Gizmo,7/10/2022,Sun,Boeing,1000,24130,24.13,10220,13910
+Retail,Midwest,Minneapolis,Heidi,Gizmo,7/11/2022,Mon,Target,400,8876,22.19,4088,4788
+Manufacturing,Northeast,New York,Rudi,Gadget,7/14/2022,Thu,General Electric,900,21555,23.95,8856,12699
+Manufacturing,Northeast,New York,Rudi,Widget,7/15/2022,Fri,IBM,300,5967,19.89,2541,3426
+Manufacturing,Midwest,Detroit,Henry,Gizmo,7/15/2022,Fri,Ford,700,15876,22.68,7154,8722
+Financial,South,Charlotte,Lottie,Gizmo,7/17/2022,Sun,Bank of America,1000,25350,25.35,10220,15130
+Manufacturing,Northeast,New York,Rudi,Gadget,7/18/2022,Mon,IBM,500,11545,23.09,4920,6625
+Retail,South,Atlanta,Scarlett,Widget,7/18/2022,Mon,Home Depot,200,4158,20.79,1694,2464
+Manufacturing,Midwest,Detroit,Henry,Widget,7/20/2022,Wed,General Motors,600,12684,21.14,5082,7602
+Retail,South,Arkla,Sam,Widget,7/22/2022,Fri,Wal-Mart,1000,18660,18.66,8470,10190
+Communications,South,Atlanta,Scarlett,Gadget,7/23/2022,Sat,AT&T,500,11660,23.32,4920,6740
+Manufacturing,Midwest,Detroit,Henry,Gadget,7/26/2022,Tue,General Motors,800,15816,19.77,7872,7944
+Consumer Goods,Midwest,Chicago,Mike,Gizmo,7/27/2022,Wed,Kraft Foods,1000,23890,23.89,10220,13670
+Communications,Northeast,New York,Rudi,Gadget,7/28/2022,Thu,Verizon,600,13866,23.11,5904,7962
+Manufacturing,West,NoCal,Carl,Widget,7/29/2022,Fri,Hewlett-Packard,1000,17840,17.84,8470,9370
+Retail,South,Arkla,Sam,Widget,7/29/2022,Fri,Wal-Mart,800,13936,17.42,6776,7160
+Manufacturing,Northeast,New York,Rudi,Gizmo,7/30/2022,Sat,General Electric,600,12984,21.64,6132,6852
+Financial,Northeast,New York,Rudi,Gadget,7/31/2022,Sun,CitiGroup,1000,21800,21.8,9840,11960
+Retail,South,Arkla,Sam,Widget,7/31/2022,Sun,Wal-Mart,300,5508,18.36,2541,2967
+Energy,South,Houston,Red,Gizmo,8/3/2022,Wed,Exxon Mobil,400,9704,24.26,4088,5616
+Retail,South,Atlanta,Scarlett,Gizmo,8/4/2022,Thu,Home Depot,600,13962,23.27,6132,7830
+Energy,South,Houston,Red,Widget,8/5/2022,Fri,Exxon Mobil,700,13433,19.19,5929,7504
+Financial,South,Charlotte,Lottie,Widget,8/6/2022,Sat,Bank of America,800,15288,19.11,6776,8512
+Manufacturing,Midwest,Detroit,Henry,Gizmo,8/6/2022,Sat,General Motors,900,19584,21.76,9198,10386
+Manufacturing,Northeast,New York,Rudi,Gizmo,8/7/2022,Sun,General Electric,100,2320,23.2,1022,1298
+Communications,South,Atlanta,Scarlett,Gadget,8/12/2022,Fri,AT&T,800,16936,21.17,7872,9064
+Manufacturing,Midwest,Detroit,Henry,Widget,8/14/2022,Sun,Ford,300,6138,20.46,2541,3597
+Manufacturing,Northeast,New York,Rudi,Gadget,8/14/2022,Sun,IBM,600,12030,20.05,5904,6126
+Financial,South,Charlotte,Lottie,Gizmo,8/16/2022,Tue,Bank of America,400,9384,23.46,4088,5296
+Energy,South,Houston,Red,Widget,8/17/2022,Wed,Exxon Mobil,300,5904,19.68,2541,3363
+Energy,South,Houston,Red,Widget,8/19/2022,Fri,Exxon Mobil,1000,21120,21.12,8470,12650
+Financial,South,Charlotte,Lottie,Gizmo,8/20/2022,Sat,Bank of America,900,18684,20.76,9198,9486
+Manufacturing,Midwest,Detroit,Henry,Widget,8/20/2022,Sat,Ford,100,1836,18.36,847,989
+Communications,South,Atlanta,Scarlett,Gizmo,8/22/2022,Mon,AT&T,600,15006,25.01,6132,8874
+Financial,Northeast,New York,Rudi,Gadget,8/22/2022,Mon,CitiGroup,900,19989,22.21,8856,11133
+Healthcare,West,NoCal,Carl,Doodads,8/25/2022,Thu,McKesson,800,17856,22.32,8176,9680
+Manufacturing,Midwest,Detroit,Henry,Widget,8/25/2022,Thu,Ford,100,1913,19.13,847,1066
+Manufacturing,Northeast,New York,Rudi,Gizmo,8/25/2022,Thu,General Electric,400,8744,21.86,4088,4656
+Financial,Northeast,New York,Rudi,Gizmo,8/26/2022,Fri,CitiGroup,900,19368,21.52,9198,10170
+Retail,Midwest,Cincinnati,Rose,Widget,8/27/2022,Sat,Kroger,100,1819,18.19,847,972
+Communications,South,Atlanta,Scarlett,Gizmo,8/28/2022,Sun,AT&T,500,10990,21.98,5110,5880
+Communications,South,Atlanta,Scarlett,Gizmo,8/28/2022,Sun,AT&T,200,4440,22.2,2044,2396
+Communications,Northeast,New York,Rudi,Widget,8/29/2022,Mon,Verizon,300,6309,21.03,2541,3768
+Financial,South,Charlotte,Lottie,Gadget,8/30/2022,Tue,Bank of America,800,18904,23.63,7872,11032
+Financial,Northeast,New York,Rudi,Gizmo,9/1/2022,Thu,JP Morgan Chase,800,18072,22.59,8176,9896
+Retail,South,Arkla,Sam,Widget,9/1/2022,Thu,Wal-Mart,100,2012,20.12,847,1165
+Manufacturing,Midwest,Detroit,Henry,Widget,9/4/2022,Sun,Ford,500,10295,20.59,4235,6060
+Manufacturing,Midwest,Detroit,Henry,Widget,9/5/2022,Mon,Ford,400,7944,19.86,3388,4556
+Manufacturing,Northeast,New York,Rudi,Widget,9/6/2022,Tue,IBM,100,1957,19.57,847,1110
+Communications,Northeast,New York,Rudi,Gadget,9/10/2022,Sat,Verizon,700,15680,22.4,6888,8792
+Communications,South,Atlanta,Scarlett,Gadget,9/10/2022,Sat,AT&T,600,12756,21.26,5904,6852
+Energy,South,Houston,Red,Widget,9/11/2022,Sun,Exxon Mobil,300,5826,19.42,2541,3285
+Financial,Northeast,New York,Rudi,Gizmo,9/13/2022,Tue,CitiGroup,800,20008,25.01,8176,11832
+Financial,Northeast,New York,Rudi,Widget,9/14/2022,Wed,CitiGroup,300,5457,18.19,2541,2916
+Energy,South,Houston,Red,Widget,9/15/2022,Thu,Exxon Mobil,600,12330,20.55,5082,7248
+Communications,South,Atlanta,Scarlett,Gadget,9/18/2022,Sun,AT&T,500,11845,23.69,4920,6925
+Energy,South,Houston,Red,Gadget,9/19/2022,Mon,ConocoPhillips,800,16784,20.98,7872,8912
+Manufacturing,Midwest,Detroit,Henry,Widget,9/22/2022,Thu,General Motors,1000,17200,17.2,8470,8730
+Financial,Northeast,New York,Rudi,Widget,9/23/2022,Fri,CitiGroup,600,10602,17.67,5082,5520
+Communications,South,Atlanta,Scarlett,Widget,9/25/2022,Sun,AT&T,500,9350,18.7,4235,5115
+Manufacturing,Midwest,Detroit,Henry,Gizmo,9/25/2022,Sun,General Motors,100,2095,20.95,1022,1073
+Manufacturing,Midwest,Detroit,Henry,Gadget,9/26/2022,Mon,General Motors,600,13728,22.88,5904,7824
+Manufacturing,Northeast,New York,Rudi,Gadget,9/27/2022,Tue,General Electric,900,17712,19.68,7623,10089
+Retail,South,Arkla,Sam,Gadget,9/27/2022,Tue,Wal-Mart,1000,23080,23.08,9840,13240
+Retail,South,Arkla,Sam,Widget,9/28/2022,Wed,Wal-Mart,800,13552,16.94,6776,6776
+Manufacturing,Midwest,Detroit,Henry,Gizmo,9/29/2022,Thu,General Motors,600,12480,20.8,6132,6348
+Financial,Northeast,New York,Rudi,Widget,9/30/2022,Fri,CitiGroup,900,15759,17.51,7623,8136
+Manufacturing,Northeast,New York,Rudi,Gadget,10/2/2022,Sun,General Electric,200,4866,24.33,1968,2898
+Manufacturing,Midwest,Detroit,Henry,Widget,10/3/2022,Mon,Ford,100,1877,18.77,847,1030
+Energy,South,Houston,Red,Gizmo,10/6/2022,Thu,ConocoPhillips,800,16936,21.17,8176,8760
+Retail,South,Arkla,Sam,Gizmo,10/7/2022,Fri,Wal-Mart,700,15715,22.45,7154,8561
+Financial,Northeast,New York,Rudi,Gizmo,10/8/2022,Sat,CitiGroup,800,18208,22.76,8176,10032
+Healthcare,West,NoCal,Carl,Gadget,10/8/2022,Sat,McKesson,100,2358,23.58,984,1374
+Manufacturing,Northeast,New York,Rudi,Gizmo,10/10/2022,Mon,IBM,400,8560,21.4,4088,4472
+Manufacturing,Northeast,New York,Rudi,Gadget,10/12/2022,Wed,IBM,1000,20190,20.19,9840,10350
+Energy,West,NoCal,Carl,Gizmo,10/13/2022,Thu,Chevron,300,7032,23.44,3066,3966
+Financial,Northeast,New York,Rudi,Gizmo,10/15/2022,Sat,CitiGroup,100,2517,25.17,1022,1495
+Energy,South,Houston,Red,Gizmo,10/16/2022,Sun,Exxon Mobil,500,10550,21.1,5110,5440
+Financial,South,Charlotte,Lottie,Widget,10/16/2022,Sun,Bank of America,700,14133,20.19,5929,8204
+Energy,South,Houston,Red,Gizmo,10/17/2022,Mon,Exxon Mobil,300,6495,21.65,3066,3429
+Financial,Northeast,New York,Rudi,Widget,10/18/2022,Tue,CitiGroup,400,7520,18.8,3388,4132
+Communications,South,Atlanta,Scarlett,Gizmo,10/20/2022,Thu,AT&T,900,21834,24.26,9198,12636
+Financial,Northeast,New York,Rudi,Widget,10/20/2022,Thu,CitiGroup,800,14136,17.67,6776,7360
+Manufacturing,Midwest,Detroit,Henry,Widget,10/22/2022,Sat,General Motors,800,16008,20.01,6776,9232
+Retail,South,Atlanta,Scarlett,Gadget,10/22/2022,Sat,Home Depot,500,11220,22.44,4920,6300
+Retail,South,Arkla,Sam,Gadget,10/23/2022,Sun,Wal-Mart,1000,23040,23.04,9840,13200
+Energy,South,Houston,Red,Gadget,10/25/2022,Tue,Exxon Mobil,500,10955,21.91,4920,6035
+Energy,South,Houston,Red,Gizmo,10/25/2022,Tue,Exxon Mobil,900,21762,24.18,9198,12564
+Energy,South,Houston,Red,Widget,10/27/2022,Thu,Exxon Mobil,800,15976,19.97,6776,9200
+Financial,Northeast,New York,Rudi,Gadget,10/30/2022,Sun,CitiGroup,1000,20540,20.54,9840,10700
+Manufacturing,Northeast,New York,Rudi,Gadget,10/31/2022,Mon,General Electric,500,9475,18.95,4235,5240
+Manufacturing,Midwest,Detroit,Henry,Gizmo,11/1/2022,Tue,General Motors,100,2343,23.43,1022,1321
+Manufacturing,Northeast,New York,Rudi,Gizmo,11/4/2022,Fri,General Electric,500,10645,21.29,5110,5535
+Manufacturing,Northeast,New York,Rudi,Gadget,11/5/2022,Sat,General Electric,400,8468,21.17,3388,5080
+Financial,Northeast,New York,Rudi,Widget,11/8/2022,Tue,CitiGroup,400,8196,20.49,3388,4808
+Financial,Northeast,New York,Rudi,Gadget,11/11/2022,Fri,CitiGroup,500,11295,22.59,4920,6375
+Communications,Northeast,New York,Rudi,Gizmo,11/13/2022,Sun,Verizon,800,19376,24.22,8176,11200
+Manufacturing,Northeast,New York,Rudi,Gadget,11/13/2022,Sun,General Electric,600,14466,24.11,5904,8562
+Communications,South,Atlanta,Scarlett,Widget,11/15/2022,Tue,AT&T,900,15255,16.95,7623,7632
+Financial,South,Charlotte,Lottie,Gadget,11/15/2022,Tue,Bank of America,900,21033,23.37,8856,12177
+Retail,West,SoCal,Leo,Widget,11/16/2022,Wed,Costco,1000,17250,17.25,8470,8780
+Manufacturing,Midwest,Detroit,Henry,Gadget,11/17/2022,Thu,General Motors,600,13200,22,5904,7296
+Healthcare,Northeast,New York,Rudi,Doodads,11/20/2022,Sun,Pfizer,1000,24420,24.42,10220,14200
+Manufacturing,Northeast,New York,Rudi,Gadget,11/20/2022,Sun,General Electric,200,3672,18.36,1694,1978
+Financial,Northeast,New York,Rudi,Gadget,11/21/2022,Mon,CitiGroup,300,7053,23.51,2952,4101
+Communications,Northeast,New York,Rudi,Widget,11/23/2022,Wed,Verizon,900,17136,19.04,7623,9513
+Financial,Northeast,New York,Rudi,Gadget,11/23/2022,Wed,CitiGroup,100,2410,24.1,984,1426
+Communications,Northeast,New York,Rudi,Gadget,11/24/2022,Thu,Verizon,300,6462,21.54,2952,3510
+Retail,Midwest,Cincinnati,Rose,Gizmo,11/25/2022,Fri,Kroger,100,2538,25.38,1022,1516
+Manufacturing,Northeast,New York,Rudi,Gadget,11/28/2022,Mon,General Electric,500,9890,19.78,4920,4970
+Manufacturing,Midwest,Detroit,Henry,Gadget,11/28/2022,Mon,General Motors,100,2004,20.04,984,1020
+Manufacturing,Northeast,New York,Rudi,Gizmo,11/29/2022,Tue,General Electric,300,7569,25.23,3066,4503
+Communications,Northeast,New York,Rudi,Widget,11/30/2022,Wed,Verizon,300,5592,18.64,2541,3051
+Manufacturing,Northeast,New York,Rudi,Gadget,12/1/2022,Thu,IBM,200,3942,19.71,1968,1974
+Manufacturing,Midwest,Chicago,Mike,Gadget,12/2/2022,Fri,Caterpillar,800,19344,24.18,7872,11472
+Communications,South,Atlanta,Scarlett,Gadget,12/4/2022,Sun,AT&T,900,21546,23.94,8856,12690
+Manufacturing,Midwest,Chicago,Mike,Gadget,12/5/2022,Mon,Caterpillar,500,10760,21.52,4920,5840
+Retail,South,Arkla,Sam,Widget,12/5/2022,Mon,Wal-Mart,900,18243,20.27,7623,10620
+Manufacturing,Midwest,Detroit,Henry,Widget,12/6/2022,Tue,Ford,800,16856,21.07,6776,10080
+Energy,South,Houston,Red,Widget,12/8/2022,Thu,Exxon Mobil,700,14105,20.15,5929,8176
+Manufacturing,Northeast,New York,Rudi,Widget,12/8/2022,Thu,IBM,100,2111,21.11,847,1264
+Consumer Goods,Midwest,Cincinnati,Rose,Gizmo,12/9/2022,Fri,Proctor & Gamble,400,9660,24.15,4088,5572
+Energy,South,Houston,Red,Widget,12/10/2022,Sat,Exxon Mobil,100,1878,18.78,847,1031
+Manufacturing,Northeast,New York,Rudi,Gadget,12/10/2022,Sat,General Electric,600,12888,21.48,5904,6984
+Manufacturing,Northeast,New York,Rudi,Widget,12/12/2022,Mon,IBM,100,2108,21.08,847,1261
+Energy,South,Houston,Red,Widget,12/14/2022,Wed,Exxon Mobil,600,11964,19.94,5082,6882
+Energy,South,Houston,Red,Gizmo,12/15/2022,Thu,Exxon Mobil,900,20664,22.96,9198,11466
+Manufacturing,Northeast,New York,Rudi,Gizmo,12/15/2022,Thu,IBM,300,6732,22.44,3066,3666
+Energy,South,Houston,Red,Widget,12/18/2022,Sun,Exxon Mobil,900,15651,17.39,7623,8028
+Financial,South,Charlotte,Lottie,Widget,12/19/2022,Mon,Bank of America,600,11274,18.79,5082,6192
+Manufacturing,Midwest,Detroit,Henry,Widget,12/20/2022,Tue,Ford,800,14408,18.01,6776,7632
+Manufacturing,Northeast,New York,Rudi,Gizmo,12/21/2022,Wed,IBM,100,2213,22.13,1022,1191
+Manufacturing,Northeast,New York,Rudi,Widget,12/22/2022,Thu,IBM,500,8725,17.45,4235,4490
+Communications,Northeast,New York,Rudi,Gizmo,12/24/2022,Sat,Verizon,900,18666,20.74,9198,9468
+Communications,Northeast,New York,Rudi,Widget,12/25/2022,Sun,Verizon,100,2055,20.55,847,1208
+Manufacturing,Northeast,New York,Rudi,Gadget,12/25/2022,Sun,General Electric,500,10475,20.95,4920,5555
+Energy,South,Houston,Red,Gizmo,12/27/2022,Tue,Exxon Mobil,600,14178,23.63,6132,8046
+Manufacturing,Northeast,New York,Rudi,Gadget,12/27/2022,Tue,General Electric,100,1861,18.61,847,1014
+Communications,South,Atlanta,Scarlett,Widget,12/28/2022,Wed,AT&T,500,9460,18.92,4235,5225
+Manufacturing,Midwest,Detroit,Henry,Widget,12/29/2022,Thu,General Motors,600,10290,17.15,5082,5208
+Communications,Northeast,New York,Rudi,Widget,1/2/2023,Mon,Verizon,500,10245,20.49,4235,6010
+Manufacturing,Northeast,New York,Rudi,Gizmo,1/3/2023,Tue,General Electric,500,11240,22.48,5110,6130
+Manufacturing,Northeast,New York,Rudi,Gizmo,1/4/2023,Wed,General Electric,400,9204,23.01,4088,5116
+Manufacturing,Northeast,New York,Rudi,Widget,1/5/2023,Thu,IBM,400,6860,17.15,3388,3472
+Energy,South,Houston,Red,Gizmo,1/7/2023,Sat,Valero Energy,600,13806,23.01,6132,7674
+Manufacturing,West,NoCal,Carl,Gizmo,1/9/2023,Mon,Hewlett-Packard,900,21015,23.35,9198,11817
+Manufacturing,Northeast,New York,Rudi,Gizmo,1/10/2023,Tue,General Electric,900,21465,23.85,9198,12267
+Manufacturing,Northeast,New York,Rudi,Gizmo,1/12/2023,Thu,General Electric,400,9144,22.86,4088,5056
+Communications,South,Atlanta,Scarlett,Widget,1/14/2023,Sat,AT&T,100,1740,17.4,847,893
+Retail,South,Arkla,Sam,Widget,1/14/2023,Sat,Wal-Mart,1000,19110,19.11,8470,10640
+Retail,South,Arkla,Sam,Gizmo,1/16/2023,Mon,Wal-Mart,900,21888,24.32,9198,12690
+Energy,South,Houston,Red,Gadget,1/17/2023,Tue,Exxon Mobil,300,5961,19.87,2952,3009
+Financial,Northeast,New York,Rudi,Widget,1/20/2023,Fri,CitiGroup,900,17505,19.45,7623,9882
+Energy,South,Houston,Red,Gadget,1/21/2023,Sat,Exxon Mobil,300,7032,23.44,2952,4080
+Energy,South,Houston,Red,Gadget,1/22/2023,Sun,Exxon Mobil,300,6735,22.45,2952,3783
+Energy,South,Houston,Red,Widget,1/23/2023,Mon,Exxon Mobil,400,8164,20.41,3388,4776
+Retail,South,Arkla,Sam,Widget,1/24/2023,Tue,Wal-Mart,300,6207,20.69,2541,3666
+Energy,South,Houston,Red,Gadget,1/25/2023,Wed,Exxon Mobil,300,6240,20.8,2952,3288
+Manufacturing,Northeast,New York,Rudi,Gadget,1/27/2023,Fri,General Electric,500,10445,20.89,4235,6210
+Retail,South,Arkla,Sam,Widget,1/29/2023,Sun,Wal-Mart,800,14224,17.78,6776,7448
+Communications,South,Atlanta,Scarlett,Gizmo,1/30/2023,Mon,AT&T,400,10044,25.11,4088,5956
+Financial,Northeast,New York,Rudi,Widget,1/31/2023,Tue,CitiGroup,1000,19250,19.25,8470,10780
+Energy,South,Houston,Red,Gadget,2/1/2023,Wed,Exxon Mobil,200,4740,23.7,1968,2772
+Manufacturing,Midwest,Detroit,Henry,Gadget,2/1/2023,Wed,General Motors,600,12672,21.12,5904,6768
+Energy,South,Houston,Red,Widget,2/5/2023,Sun,Exxon Mobil,700,13314,19.02,5929,7385
+Manufacturing,Northeast,New York,Rudi,Gadget,2/6/2023,Mon,General Electric,200,4280,21.4,1968,2312
+Communications,Northeast,New York,Rudi,Widget,2/8/2023,Wed,Verizon,300,6045,20.15,2541,3504
+Retail,South,Arkla,Sam,Widget,2/9/2023,Thu,Wal-Mart,400,7180,17.95,3388,3792
+Financial,Northeast,New York,Rudi,Gadget,2/13/2023,Mon,CitiGroup,600,12798,21.33,5904,6894
+Retail,South,Arkla,Sam,Widget,2/15/2023,Wed,Wal-Mart,100,2066,20.66,847,1219
+Manufacturing,Midwest,Detroit,Henry,Gadget,2/16/2023,Thu,Ford,200,4742,23.71,1968,2774
+Manufacturing,Midwest,Detroit,Henry,Widget,2/17/2023,Fri,General Motors,200,3876,19.38,1694,2182
+Manufacturing,Northeast,New York,Rudi,Gadget,2/19/2023,Sun,IBM,400,9088,22.72,3936,5152
+Manufacturing,Midwest,Detroit,Henry,Gizmo,2/19/2023,Sun,General Motors,1000,25080,25.08,10220,14860
+Financial,South,Charlotte,Lottie,Widget,2/20/2023,Mon,Bank of America,400,7152,17.88,3388,3764
+Manufacturing,Northeast,New York,Rudi,Gadget,2/20/2023,Mon,General Electric,800,18504,23.13,7872,10632
+Manufacturing,Midwest,Detroit,Henry,Gadget,2/22/2023,Wed,Ford,600,12282,20.47,5904,6378
+Manufacturing,Northeast,New York,Rudi,Gizmo,2/24/2023,Fri,General Electric,1000,20940,20.94,10220,10720
+Manufacturing,Midwest,Detroit,Henry,Widget,2/26/2023,Sun,General Motors,700,12145,17.35,5929,6216
+Manufacturing,Midwest,Detroit,Henry,Gizmo,2/26/2023,Sun,Ford,1000,22680,22.68,10220,12460
+Manufacturing,Northeast,New York,Rudi,Gizmo,2/26/2023,Sun,IBM,700,17367,24.81,7154,10213
+Communications,Northeast,New York,Rudi,Widget,2/27/2023,Mon,Verizon,600,11922,19.87,5082,6840
+Manufacturing,Midwest,Chicago,Mike,Gizmo,2/27/2023,Mon,Caterpillar,200,4614,23.07,2044,2570
+Communications,Northeast,New York,Rudi,Gizmo,2/28/2023,Tue,Verizon,1000,20490,20.49,10220,10270
+Manufacturing,Northeast,New York,Rudi,Gizmo,3/3/2023,Fri,General Electric,400,8620,21.55,4088,4532
+Manufacturing,Northeast,New York,Rudi,Gadget,3/4/2023,Sat,IBM,500,11860,23.72,4920,6940
+Financial,South,Charlotte,Lottie,Widget,3/6/2023,Mon,Bank of America,800,14984,18.73,6776,8208
+Manufacturing,Midwest,Detroit,Henry,Widget,3/6/2023,Mon,Ford,200,4010,20.05,1694,2316
+Manufacturing,Midwest,Detroit,Henry,Gizmo,3/9/2023,Thu,General Motors,500,12505,25.01,5110,7395
+Manufacturing,Midwest,Detroit,Henry,Widget,3/13/2023,Mon,General Motors,100,1704,17.04,847,857
+Manufacturing,Northeast,New York,Rudi,Gizmo,3/13/2023,Mon,IBM,300,7305,24.35,3066,4239
+Manufacturing,Northeast,New York,Rudi,Gizmo,3/14/2023,Tue,IBM,500,11965,23.93,5110,6855
+Financial,South,Charlotte,Lottie,Gizmo,3/16/2023,Thu,Bank of America,400,9240,23.1,4088,5152
+Manufacturing,Midwest,Detroit,Henry,Gadget,3/16/2023,Thu,Ford,200,4526,22.63,1968,2558
+Manufacturing,Northeast,New York,Rudi,Gadget,3/18/2023,Sat,IBM,500,11695,23.39,4920,6775
+Energy,South,Houston,Red,Gadget,3/19/2023,Sun,Exxon Mobil,100,2272,22.72,984,1288
+Manufacturing,Midwest,Detroit,Henry,Gadget,3/20/2023,Mon,Ford,100,2157,21.57,984,1173
+Communications,Northeast,New York,Rudi,Gizmo,3/22/2023,Wed,Verizon,400,8732,21.83,4088,4644
+Financial,Northeast,New York,Rudi,Gadget,3/23/2023,Thu,CitiGroup,800,15856,19.82,7872,7984
+Healthcare,Midwest,Louisville,Krys,Doodads,3/24/2023,Fri,Cardinal Health,100,2484,24.84,1022,1462
+Retail,South,Arkla,Sam,Gadget,3/24/2023,Fri,Wal-Mart,1000,23820,23.82,9840,13980
+Manufacturing,Northeast,New York,Rudi,Gadget,3/25/2023,Sat,General Electric,200,4472,22.36,1968,2504
+Manufacturing,Midwest,Detroit,Henry,Widget,3/26/2023,Sun,General Motors,700,11858,16.94,5929,5929
+Manufacturing,Midwest,Detroit,Henry,Widget,3/28/2023,Tue,General Motors,500,9855,19.71,4235,5620
+Retail,South,Arkla,Sam,Gadget,3/30/2023,Thu,Wal-Mart,800,17240,21.55,7872,9368
+Manufacturing,Midwest,Detroit,Henry,Gizmo,3/31/2023,Fri,Ford,600,13542,22.57,6132,7410
+Healthcare,West,NoCal,Carl,Doodads,4/1/2023,Sat,McKesson,300,5859,19.53,2541,3318
+Energy,South,Houston,Red,Gadget,4/3/2023,Mon,Exxon Mobil,300,7233,24.11,2952,4281
+Manufacturing,Midwest,Detroit,Henry,Widget,4/4/2023,Tue,Ford,400,7752,19.38,3388,4364
+Manufacturing,Midwest,Detroit,Henry,Gizmo,4/4/2023,Tue,General Motors,700,15435,22.05,7154,8281
+Energy,South,Houston,Red,Gizmo,4/5/2023,Wed,Exxon Mobil,100,2178,21.78,1022,1156
+Financial,Northeast,New York,Rudi,Widget,4/5/2023,Wed,CitiGroup,500,9575,19.15,4235,5340
+Manufacturing,Midwest,Detroit,Henry,Widget,4/7/2023,Fri,Ford,500,10460,20.92,4235,6225
+Manufacturing,Midwest,Detroit,Henry,Widget,4/10/2023,Mon,General Motors,400,8132,20.33,3388,4744
+Manufacturing,Midwest,Detroit,Henry,Gizmo,4/10/2023,Mon,Ford,800,18344,22.93,8176,10168
+Manufacturing,Northeast,New York,Rudi,Gadget,4/12/2023,Wed,General Electric,400,8776,21.94,3936,4840
+Retail,South,Arkla,Sam,Gadget,4/13/2023,Thu,Wal-Mart,900,20403,22.67,8856,11547
+Financial,Northeast,New York,Rudi,Gadget,4/14/2023,Fri,JP Morgan Chase,600,14004,23.34,5904,8100
+Manufacturing,Midwest,Detroit,Henry,Widget,4/15/2023,Sat,Ford,800,14216,17.77,6776,7440
+Manufacturing,Midwest,Detroit,Henry,Widget,4/20/2023,Thu,General Motors,900,17172,19.08,7623,9549
+Manufacturing,Midwest,Detroit,Henry,Gizmo,4/21/2023,Fri,General Motors,1000,20670,20.67,10220,10450
+Retail,South,Arkla,Sam,Widget,4/22/2023,Sat,Wal-Mart,400,7376,18.44,3388,3988
+Healthcare,Midwest,Louisville,Krys,Gizmo,4/24/2023,Mon,Cardinal Health,800,17728,22.16,8176,9552
+Manufacturing,Midwest,Chicago,Mike,Gadget,4/25/2023,Tue,Boeing,1000,20950,20.95,9840,11110
+Manufacturing,Midwest,Detroit,Henry,Widget,4/26/2023,Wed,Ford,400,7852,19.63,3388,4464
+Retail,South,Arkla,Sam,Widget,4/27/2023,Thu,Wal-Mart,600,12360,20.6,5082,7278
+Manufacturing,Northeast,New York,Rudi,Gadget,4/29/2023,Sat,General Electric,300,6069,20.23,2541,3528
+Manufacturing,Midwest,Detroit,Henry,Gadget,4/29/2023,Sat,Ford,900,18990,21.1,8856,10134
+Communications,South,Atlanta,Scarlett,Widget,5/1/2023,Mon,AT&T,1000,20310,20.31,8470,11840
+Communications,South,Atlanta,Scarlett,Gadget,5/1/2023,Mon,AT&T,300,6018,20.06,2952,3066
+Communications,South,Atlanta,Scarlett,Gizmo,5/2/2023,Tue,AT&T,1000,25310,25.31,10220,15090
+Communications,Northeast,New York,Rudi,Gadget,5/3/2023,Wed,Verizon,200,4378,21.89,1968,2410
+Manufacturing,Midwest,Detroit,Henry,Gadget,5/5/2023,Fri,General Motors,700,15407,22.01,6888,8519
+Retail,South,Arkla,Sam,Widget,5/6/2023,Sat,Wal-Mart,1000,18290,18.29,8470,9820
+Communications,South,Atlanta,Scarlett,Widget,5/7/2023,Sun,AT&T,100,1842,18.42,847,995
+Financial,Northeast,New York,Rudi,Gizmo,5/7/2023,Sun,CitiGroup,500,10400,20.8,5110,5290
+Manufacturing,Midwest,Detroit,Henry,Widget,5/8/2023,Mon,Ford,100,1982,19.82,847,1135
+Financial,Northeast,New York,Rudi,Gizmo,5/10/2023,Wed,CitiGroup,300,6789,22.63,3066,3723
+Financial,South,Charlotte,Lottie,Gadget,5/11/2023,Thu,Bank of America,300,7245,24.15,2952,4293
+Energy,South,Houston,Red,Gizmo,5/12/2023,Fri,Exxon Mobil,500,11000,22,5110,5890
+Financial,South,Charlotte,Lottie,Widget,5/13/2023,Sat,Bank of America,500,9155,18.31,4235,4920
+Manufacturing,Midwest,Detroit,Henry,Gadget,5/13/2023,Sat,General Motors,400,9760,24.4,3936,5824
+Manufacturing,Midwest,Detroit,Henry,Gizmo,5/15/2023,Mon,Ford,400,9156,22.89,4088,5068
+Manufacturing,Northeast,New York,Rudi,Gizmo,5/18/2023,Thu,General Electric,500,10385,20.77,5110,5275
+Communications,Northeast,New York,Rudi,Gadget,5/20/2023,Sat,Verizon,700,14203,20.29,6888,7315
+Financial,Northeast,New York,Rudi,Gizmo,5/21/2023,Sun,CitiGroup,600,14634,24.39,6132,8502
+Energy,South,Houston,Red,Gizmo,5/22/2023,Mon,Exxon Mobil,100,2149,21.49,1022,1127
+Financial,West,NoCal,Carl,Widget,5/22/2023,Mon,Wells Fargo,700,13853,19.79,5929,7924
+Manufacturing,Midwest,Detroit,Henry,Gadget,5/23/2023,Tue,Ford,200,4474,22.37,1968,2506
+Manufacturing,Midwest,Detroit,Henry,Gizmo,5/23/2023,Tue,Ford,100,2487,24.87,1022,1465
+Energy,South,Houston,Red,Gizmo,5/24/2023,Wed,Exxon Mobil,200,4388,21.94,2044,2344
+Manufacturing,Northeast,New York,Rudi,Gadget,5/25/2023,Thu,General Electric,300,5094,16.98,2541,2553
+Manufacturing,Midwest,Detroit,Henry,Widget,5/28/2023,Sun,General Motors,200,3632,18.16,1694,1938
+Manufacturing,Midwest,Detroit,Henry,Gadget,5/28/2023,Sun,Ford,800,16264,20.33,7872,8392
+Manufacturing,Midwest,Detroit,Henry,Gadget,5/30/2023,Tue,General Motors,700,16408,23.44,6888,9520
+Manufacturing,Midwest,Detroit,Henry,Gizmo,5/30/2023,Tue,Ford,500,12550,25.1,5110,7440
+Communications,South,Atlanta,Scarlett,Gadget,5/31/2023,Wed,AT&T,800,17056,21.32,7872,9184
+Retail,South,Arkla,Sam,Gizmo,5/31/2023,Wed,Wal-Mart,800,19152,23.94,8176,10976
+Financial,South,Charlotte,Lottie,Gizmo,6/3/2023,Sat,Bank of America,1000,23990,23.99,10220,13770
+Financial,Northeast,New York,Rudi,Gizmo,6/4/2023,Sun,CitiGroup,1000,22020,22.02,10220,11800
+Retail,West,SoCal,Leo,Gizmo,6/7/2023,Wed,Costco,400,9064,22.66,4088,4976
+Financial,Northeast,New York,Rudi,Widget,6/8/2023,Thu,CitiGroup,900,18072,20.08,7623,10449
+Communications,South,Atlanta,Scarlett,Widget,6/9/2023,Fri,AT&T,800,16288,20.36,6776,9512
+Manufacturing,Northeast,New York,Rudi,Gadget,6/11/2023,Sun,IBM,800,17944,22.43,7872,10072
+Retail,South,Arkla,Sam,Gadget,6/12/2023,Mon,Wal-Mart,300,6477,21.59,2952,3525
+Energy,South,Houston,Red,Widget,6/13/2023,Tue,Exxon Mobil,600,10404,17.34,5082,5322
+Manufacturing,Northeast,New York,Rudi,Widget,6/14/2023,Wed,IBM,500,8780,17.56,4235,4545
+Manufacturing,Northeast,New York,Rudi,Gadget,6/18/2023,Sun,General Electric,700,13874,19.82,5929,7945
+Communications,Northeast,New York,Rudi,Gizmo,6/21/2023,Wed,Verizon,700,15988,22.84,7154,8834
+Communications,South,Atlanta,Scarlett,Gadget,6/24/2023,Sat,AT&T,1000,20020,20.02,9840,10180
+Financial,Northeast,New York,Rudi,Gadget,6/25/2023,Sun,JP Morgan Chase,200,4060,20.3,1968,2092
+Manufacturing,Northeast,New York,Rudi,Gadget,6/26/2023,Mon,General Electric,800,15400,19.25,6776,8624
+Manufacturing,Midwest,Detroit,Henry,Gadget,6/26/2023,Mon,Ford,700,16219,23.17,6888,9331
+Energy,South,Houston,Red,Gizmo,6/27/2023,Tue,Exxon Mobil,400,8804,22.01,4088,4716
+Energy,South,Houston,Red,Gizmo,6/30/2023,Fri,Exxon Mobil,500,12425,24.85,5110,7315
+Communications,Northeast,New York,Rudi,Gadget,7/1/2023,Sat,Verizon,100,2054,20.54,984,1070
+Manufacturing,Northeast,New York,Rudi,Gizmo,7/2/2023,Sun,IBM,400,9816,24.54,4088,5728
+Communications,South,Atlanta,Scarlett,Widget,7/3/2023,Mon,AT&T,200,4192,20.96,1694,2498
+Retail,South,Arkla,Sam,Gadget,7/3/2023,Mon,Wal-Mart,900,18099,20.11,8856,9243
+Energy,South,Houston,Red,Gadget,7/5/2023,Wed,Exxon Mobil,700,16303,23.29,6888,9415
+Retail,South,Arkla,Sam,Gizmo,7/7/2023,Fri,Wal-Mart,400,8580,21.45,4088,4492
+Manufacturing,Midwest,Detroit,Henry,Gadget,7/8/2023,Sat,General Motors,500,12270,24.54,4920,7350
+Retail,South,Arkla,Sam,Widget,7/11/2023,Tue,Wal-Mart,900,17883,19.87,7623,10260
+Manufacturing,Northeast,New York,Rudi,Gadget,7/13/2023,Thu,IBM,500,11725,23.45,4920,6805
+Manufacturing,Northeast,New York,Rudi,Gizmo,7/14/2023,Fri,IBM,900,21366,23.74,9198,12168
+Consumer Goods,Midwest,Chicago,Mike,Gadget,7/15/2023,Sat,Kraft Foods,700,14497,20.71,6888,7609
+Manufacturing,Midwest,Detroit,Henry,Gadget,7/16/2023,Sun,Ford,800,17416,21.77,7872,9544
+Manufacturing,Midwest,Detroit,Henry,Widget,7/18/2023,Tue,Ford,700,13804,19.72,5929,7875
+Manufacturing,Northeast,New York,Rudi,Gizmo,7/18/2023,Tue,IBM,200,4902,24.51,2044,2858
+Retail,South,Arkla,Sam,Gadget,7/19/2023,Wed,Wal-Mart,500,11235,22.47,4920,6315
+Retail,Midwest,Cincinnati,Rose,Gizmo,7/21/2023,Fri,Kroger,1000,22840,22.84,10220,12620
+Energy,South,Houston,Red,Widget,7/22/2023,Sat,Exxon Mobil,200,3390,16.95,1694,1696
+Communications,Northeast,New York,Rudi,Gadget,7/23/2023,Sun,Verizon,300,6228,20.76,2952,3276
+Manufacturing,Midwest,Detroit,Henry,Gadget,7/26/2023,Wed,Ford,600,13332,22.22,5904,7428
+Retail,South,Arkla,Sam,Gadget,7/27/2023,Thu,Wal-Mart,200,4132,20.66,1968,2164
+Energy,South,Houston,Red,Gizmo,7/28/2023,Fri,Exxon Mobil,200,4722,23.61,2044,2678
+Manufacturing,Midwest,Detroit,Henry,Gadget,7/29/2023,Sat,General Motors,700,16170,23.1,6888,9282
+Communications,Northeast,New York,Rudi,Gadget,7/30/2023,Sun,Verizon,300,6159,20.53,2952,3207
+Energy,West,NoCal,Carl,Widget,7/30/2023,Sun,Chevron,1000,18290,18.29,8470,9820
+Energy,South,Houston,Red,Widget,7/31/2023,Mon,Exxon Mobil,1000,18500,18.5,8470,10030
+Energy,South,Houston,Red,Gizmo,8/3/2023,Thu,Exxon Mobil,900,21159,23.51,9198,11961
+Communications,South,Atlanta,Scarlett,Widget,8/4/2023,Fri,AT&T,800,15488,19.36,6776,8712
+Manufacturing,Midwest,Detroit,Henry,Gizmo,8/4/2023,Fri,Ford,100,2547,25.47,1022,1525
+Retail,South,Arkla,Sam,Widget,8/5/2023,Sat,Wal-Mart,200,3418,17.09,1694,1724
+Manufacturing,Midwest,Detroit,Henry,Widget,8/6/2023,Sun,General Motors,1000,19530,19.53,8470,11060
+Retail,West,SoCal,Leo,Gadget,8/7/2023,Mon,Costco,200,4380,21.9,1968,2412
+Retail,South,Arkla,Sam,Gadget,8/11/2023,Fri,Wal-Mart,600,13368,22.28,5904,7464
+Manufacturing,Midwest,Detroit,Henry,Gizmo,8/12/2023,Sat,Ford,200,4550,22.75,2044,2506
+Communications,South,Atlanta,Scarlett,Gadget,8/14/2023,Mon,AT&T,300,6522,21.74,2952,3570
+Energy,South,Houston,Red,Gadget,8/16/2023,Wed,Valero Energy,200,4270,21.35,1968,2302
+Financial,South,Charlotte,Lottie,Gadget,8/16/2023,Wed,Bank of America,700,17213,24.59,6888,10325
+Energy,South,Houston,Red,Gadget,8/18/2023,Fri,Exxon Mobil,800,16232,20.29,7872,8360
+Manufacturing,Midwest,Detroit,Henry,Gizmo,8/19/2023,Sat,Ford,500,12755,25.51,5110,7645
+Manufacturing,Midwest,Detroit,Henry,Gadget,8/20/2023,Sun,General Motors,200,4470,22.35,1968,2502
+Manufacturing,Midwest,Detroit,Henry,Widget,8/21/2023,Mon,Ford,300,6156,20.52,2541,3615
+Manufacturing,Northeast,New York,Rudi,Gadget,8/22/2023,Tue,General Electric,800,15544,19.43,6776,8768
+Manufacturing,Midwest,Detroit,Henry,Gadget,8/24/2023,Thu,Ford,100,2409,24.09,984,1425
+Financial,South,Charlotte,Lottie,Gizmo,8/25/2023,Fri,Bank of America,600,12570,20.95,6132,6438
+Manufacturing,Northeast,New York,Rudi,Gizmo,8/25/2023,Fri,IBM,300,6438,21.46,3066,3372
+Manufacturing,Midwest,Detroit,Henry,Gizmo,8/26/2023,Sat,Ford,900,19593,21.77,9198,10395
+Communications,Northeast,New York,Rudi,Widget,8/27/2023,Sun,Verizon,900,18981,21.09,7623,11358
+Energy,South,Houston,Red,Gizmo,8/28/2023,Mon,Exxon Mobil,800,17160,21.45,8176,8984
+Manufacturing,Northeast,New York,Rudi,Widget,8/28/2023,Mon,IBM,100,2028,20.28,847,1181
+Retail,South,Arkla,Sam,Widget,8/28/2023,Mon,Wal-Mart,300,5859,19.53,2541,3318
+Energy,South,Houston,Red,Widget,8/29/2023,Tue,ConocoPhillips,300,5532,18.44,2541,2991
+Manufacturing,Midwest,Detroit,Henry,Gizmo,8/30/2023,Wed,Ford,500,12575,25.15,5110,7465
+Financial,Northeast,New York,Rudi,Widget,9/1/2023,Fri,CitiGroup,800,16144,20.18,6776,9368
+Manufacturing,Midwest,Detroit,Henry,Gadget,9/3/2023,Sun,General Motors,900,18486,20.54,8856,9630
+Energy,South,Houston,Red,Widget,9/5/2023,Tue,Exxon Mobil,900,17289,19.21,7623,9666
+Manufacturing,Midwest,Detroit,Henry,Gadget,9/5/2023,Tue,General Motors,100,2106,21.06,984,1122
+Retail,South,Atlanta,Scarlett,Gadget,9/9/2023,Sat,Home Depot,100,2029,20.29,984,1045
+Communications,Northeast,New York,Rudi,Gizmo,9/10/2023,Sun,Verizon,600,12936,21.56,6132,6804
+Manufacturing,West,NoCal,Carl,Gadget,9/10/2023,Sun,Hewlett-Packard,500,11550,23.1,4920,6630
+Financial,South,Charlotte,Lottie,Gadget,9/12/2023,Tue,Bank of America,600,14580,24.3,5904,8676
+Financial,Northeast,New York,Rudi,Gizmo,9/14/2023,Thu,CitiGroup,100,2058,20.58,1022,1036
+Manufacturing,Midwest,Detroit,Henry,Gadget,9/14/2023,Thu,Ford,600,13566,22.61,5904,7662
+Manufacturing,Northeast,New York,Rudi,Gadget,9/17/2023,Sun,General Electric,100,1741,17.41,847,894
+Energy,South,Houston,Red,Gizmo,9/18/2023,Mon,Exxon Mobil,200,5002,25.01,2044,2958
+Communications,South,Atlanta,Scarlett,Widget,9/19/2023,Tue,AT&T,100,1795,17.95,847,948
+Manufacturing,Northeast,New York,Rudi,Gadget,9/22/2023,Fri,IBM,400,8592,21.48,3936,4656
+Communications,South,Atlanta,Scarlett,Gadget,9/25/2023,Mon,AT&T,600,12690,21.15,5904,6786
+Manufacturing,Northeast,New York,Rudi,Gadget,9/25/2023,Mon,IBM,300,6582,21.94,2952,3630
+Manufacturing,Northeast,New York,Rudi,Gadget,9/26/2023,Tue,General Electric,400,9672,24.18,3936,5736
+Manufacturing,Northeast,New York,Rudi,Gizmo,9/26/2023,Tue,General Electric,900,22014,24.46,9198,12816
+Energy,South,Houston,Red,Widget,9/27/2023,Wed,Exxon Mobil,1000,18530,18.53,8470,10060
+Retail,South,Arkla,Sam,Gadget,9/27/2023,Wed,Wal-Mart,600,14004,23.34,5904,8100
+Retail,South,Arkla,Sam,Widget,9/28/2023,Thu,Wal-Mart,700,13139,18.77,5929,7210
+Financial,South,Charlotte,Lottie,Widget,9/29/2023,Fri,Bank of America,500,8715,17.43,4235,4480
+Financial,Northeast,New York,Rudi,Widget,10/2/2023,Mon,CitiGroup,400,6944,17.36,3388,3556
+Retail,South,Arkla,Sam,Gizmo,10/3/2023,Tue,Wal-Mart,500,12760,25.52,5110,7650
+Retail,South,Arkla,Sam,Gizmo,10/5/2023,Thu,Wal-Mart,1000,24070,24.07,10220,13850
+Manufacturing,Midwest,Detroit,Henry,Gadget,10/6/2023,Fri,General Motors,200,4186,20.93,1968,2218
+Communications,Northeast,New York,Rudi,Widget,10/7/2023,Sat,Verizon,700,13195,18.85,5929,7266
+Manufacturing,Northeast,New York,Rudi,Gadget,10/8/2023,Sun,General Electric,200,3922,19.61,1694,2228
+Financial,South,Charlotte,Lottie,Gadget,10/9/2023,Mon,Bank of America,1000,23970,23.97,9840,14130
+Retail,Midwest,Minneapolis,Heidi,Widget,10/11/2023,Wed,Target,500,8940,17.88,4235,4705
+Energy,South,Houston,Red,Gizmo,10/12/2023,Thu,Exxon Mobil,200,5002,25.01,2044,2958
+Consumer Goods,Midwest,Chicago,Mike,Widget,10/14/2023,Sat,Kraft Foods,1000,17190,17.19,8470,8720
+Communications,South,Atlanta,Scarlett,Gizmo,10/16/2023,Mon,AT&T,900,21042,23.38,9198,11844
+Manufacturing,Northeast,New York,Rudi,Gadget,10/16/2023,Mon,IBM,500,11530,23.06,4920,6610
+Manufacturing,Midwest,Chicago,Mike,Widget,10/17/2023,Tue,Caterpillar,800,15312,19.14,6776,8536
+Communications,Northeast,New York,Rudi,Gizmo,10/18/2023,Wed,Verizon,900,19161,21.29,9198,9963
+Financial,Northeast,New York,Rudi,Gizmo,10/19/2023,Thu,CitiGroup,500,10940,21.88,5110,5830
+Manufacturing,Midwest,Detroit,Henry,Widget,10/20/2023,Fri,Ford,1000,21010,21.01,8470,12540
+Financial,South,Charlotte,Lottie,Widget,10/22/2023,Sun,Bank of America,900,18576,20.64,7623,10953
+Financial,Northeast,New York,Rudi,Gadget,10/22/2023,Sun,CitiGroup,200,4484,22.42,1968,2516
+Manufacturing,Northeast,New York,Rudi,Gadget,10/22/2023,Sun,General Electric,700,13797,19.71,6888,6909
+Financial,Northeast,New York,Rudi,Widget,10/23/2023,Mon,CitiGroup,700,12131,17.33,5929,6202
+Energy,South,Houston,Red,Gadget,10/25/2023,Wed,Exxon Mobil,500,11250,22.5,4920,6330
+Financial,Northeast,New York,Rudi,Gadget,10/26/2023,Thu,CitiGroup,500,11430,22.86,4920,6510
+Manufacturing,Midwest,Detroit,Henry,Gizmo,10/29/2023,Sun,General Motors,100,2234,22.34,1022,1212
+Communications,Northeast,New York,Rudi,Gizmo,10/31/2023,Tue,Verizon,100,2092,20.92,1022,1070
+Energy,South,Houston,Red,Gizmo,10/31/2023,Tue,Exxon Mobil,600,13818,23.03,6132,7686
+Retail,Midwest,Minneapolis,Heidi,Gizmo,11/4/2023,Sat,Target,600,12612,21.02,6132,6480
+Financial,Northeast,New York,Rudi,Widget,11/5/2023,Sun,JP Morgan Chase,800,15104,18.88,6776,8328
+Energy,South,Houston,Red,Gizmo,11/8/2023,Wed,Exxon Mobil,700,16576,23.68,7154,9422
+Manufacturing,Midwest,Detroit,Henry,Gizmo,11/9/2023,Thu,General Motors,700,17059,24.37,7154,9905
+Financial,Northeast,New York,Rudi,Gadget,11/13/2023,Mon,CitiGroup,800,19424,24.28,7872,11552
+Retail,South,Arkla,Sam,Gadget,11/13/2023,Mon,Wal-Mart,700,14784,21.12,6888,7896
+Manufacturing,Midwest,Detroit,Henry,Gadget,11/14/2023,Tue,Ford,1000,21740,21.74,9840,11900
+Manufacturing,Midwest,Detroit,Henry,Gadget,11/15/2023,Wed,Ford,900,19674,21.86,8856,10818
+Retail,South,Arkla,Sam,Widget,11/15/2023,Wed,Wal-Mart,500,8970,17.94,4235,4735
+Manufacturing,Midwest,Detroit,Henry,Gizmo,11/17/2023,Fri,General Motors,600,13680,22.8,6132,7548
+Financial,Northeast,New York,Rudi,Gadget,11/19/2023,Sun,CitiGroup,800,17136,21.42,7872,9264
+Retail,South,Arkla,Sam,Widget,11/20/2023,Mon,Wal-Mart,400,6880,17.2,3388,3492
+Manufacturing,Midwest,Detroit,Henry,Gadget,11/21/2023,Tue,General Motors,500,11330,22.66,4920,6410
+Energy,South,Houston,Red,Gadget,11/22/2023,Wed,Exxon Mobil,200,4412,22.06,1968,2444
+Financial,Northeast,New York,Rudi,Gadget,11/23/2023,Thu,CitiGroup,400,9484,23.71,3936,5548
+Financial,Northeast,New York,Rudi,Gadget,11/24/2023,Fri,CitiGroup,400,8204,20.51,3936,4268
+Retail,West,SoCal,Leo,Gizmo,11/25/2023,Sat,Costco,400,8556,21.39,4088,4468
+Financial,Northeast,New York,Rudi,Gadget,11/28/2023,Tue,CitiGroup,400,8464,21.16,3936,4528
+Manufacturing,Midwest,Detroit,Henry,Gizmo,11/28/2023,Tue,General Motors,500,11470,22.94,5110,6360
+Communications,South,Atlanta,Scarlett,Gadget,11/29/2023,Wed,AT&T,600,14154,23.59,5904,8250
+Retail,South,Arkla,Sam,Gadget,11/30/2023,Thu,Wal-Mart,800,19280,24.1,7872,11408
+Manufacturing,Midwest,Detroit,Henry,Gizmo,12/1/2023,Fri,General Motors,900,22887,25.43,9198,13689
+Communications,Northeast,New York,Rudi,Gizmo,12/2/2023,Sat,Verizon,600,13290,22.15,6132,7158
+Energy,South,Houston,Red,Gadget,12/2/2023,Sat,Exxon Mobil,1000,20840,20.84,9840,11000
+Financial,West,NoCal,Carl,Gizmo,12/5/2023,Tue,Wells Fargo,800,19544,24.43,8176,11368
+Financial,Northeast,New York,Rudi,Gizmo,12/5/2023,Tue,CitiGroup,400,8284,20.71,4088,4196
+Manufacturing,Midwest,Detroit,Henry,Gizmo,12/5/2023,Tue,Ford,800,17496,21.87,8176,9320
+Manufacturing,Midwest,Detroit,Henry,Gadget,12/7/2023,Thu,General Motors,1000,23690,23.69,9840,13850
+Financial,Northeast,New York,Rudi,Gizmo,12/8/2023,Fri,CitiGroup,100,2309,23.09,1022,1287
+Financial,South,Charlotte,Lottie,Gizmo,12/9/2023,Sat,Bank of America,900,18756,20.84,9198,9558
+Manufacturing,Midwest,Detroit,Henry,Widget,12/10/2023,Sun,General Motors,1000,17410,17.41,8470,8940
+Manufacturing,Midwest,Detroit,Henry,Gadget,12/10/2023,Sun,General Motors,200,4492,22.46,1968,2524
+Manufacturing,Northeast,New York,Rudi,Gadget,12/11/2023,Mon,General Electric,200,4696,23.48,1968,2728
+Communications,Northeast,New York,Rudi,Gadget,12/13/2023,Wed,Verizon,500,10295,20.59,4920,5375
+Financial,Northeast,New York,Rudi,Gizmo,12/15/2023,Fri,CitiGroup,1000,25010,25.01,10220,14790
+Manufacturing,Midwest,Detroit,Henry,Gizmo,12/15/2023,Fri,Ford,500,10380,20.76,5110,5270
+Manufacturing,Northeast,New York,Rudi,Gizmo,12/16/2023,Sat,IBM,300,6744,22.48,3066,3678
+Manufacturing,Midwest,Detroit,Henry,Widget,12/18/2023,Mon,Ford,700,13552,19.36,5929,7623
+Retail,South,Arkla,Sam,Gizmo,12/20/2023,Wed,Wal-Mart,800,18560,23.2,8176,10384
+Energy,South,Houston,Red,Widget,12/21/2023,Thu,Exxon Mobil,300,5847,19.49,2541,3306
+Communications,South,Atlanta,Scarlett,Gizmo,12/22/2023,Fri,AT&T,800,18304,22.88,8176,10128
+Energy,South,Houston,Red,Gizmo,12/23/2023,Sat,Exxon Mobil,700,17199,24.57,7154,10045
+Manufacturing,Northeast,New York,Rudi,Widget,12/24/2023,Sun,IBM,100,1968,19.68,847,1121
+Retail,South,Arkla,Sam,Gizmo,12/25/2023,Mon,Wal-Mart,200,4690,23.45,2044,2646
+Healthcare,Northeast,New York,Rudi,Gizmo,12/27/2023,Wed,Pfizer,500,11680,23.36,5110,6570
+Retail,South,Arkla,Sam,Gadget,12/27/2023,Wed,Wal-Mart,700,14560,20.8,6888,7672
+Financial,South,Charlotte,Lottie,Gizmo,12/28/2023,Thu,Bank of America,700,15225,21.75,7154,8071
+Manufacturing,Midwest,Detroit,Henry,Widget,12/29/2023,Fri,General Motors,900,15363,17.07,7623,7740
