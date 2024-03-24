@@ -1,1 +1,6 @@
-US Commodity Shipments is a US-based shipping company. The worksheet contains 500 rows of data. Each row describes a shipment from one country to another. The date of the shipment is shown, as well as the weight of the shipment in tonnes. Also shown is the name of the country from which the shipment originated and the name of the destination country. The shipments comprise a number of different commodities, mostly grains.
+US Commodity Shipments is a US-based shipping company. 
+The worksheet contains 500 rows of data. 
+Each row describes a shipment from one country to another. 
+The date of the shipment is shown, as well as the weight of the shipment in tonnes. 
+Also shown is the name of the country from which the shipment originated and the name of the destination country. 
+The shipments comprise a number of different commodities, mostly grains.
