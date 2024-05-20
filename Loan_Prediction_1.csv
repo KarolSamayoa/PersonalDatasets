@@ -1,0 +1,615 @@
+Loan_ID,Name,Las_Name,Gender,Age,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,ZIP,Primary City,latitude,longitude
+LP001002,Aaron,Thompson,Male,25,No,0,Graduate,No,5849,0,,0,360,1,Urban,Y,33010,Hialeah,25.83,-80.28
+LP001003,Abel,Martinez,Male,52,Yes,1,Graduate,No,4583,1508,128,128000,360,1,Rural,N,33012,Hialeah,25.86,-80.29
+LP001005,Abraham,Schmidt,Male,27,Yes,0,Graduate,Yes,3000,0,66,66000,360,1,Urban,Y,33013,Hialeah,25.86,-80.27
+LP001006,Adam,Miller,Male,25,Yes,0,Not Graduate,No,2583,2358,120,120000,360,1,Urban,Y,33014,Hialeah,25.9,-80.3
+LP001008,Adrian,Lopez,Male,22,No,0,Graduate,No,6000,0,141,141000,360,1,Urban,Y,33015,Hialeah,25.94,-80.32
+LP001011,Aidan,Baker,Male,35,Yes,2,Graduate,Yes,5417,4196,267,267000,360,1,Urban,Y,33016,Hialeah,25.9,-80.33
+LP001013,Alberto,Garcia,Male,32,Yes,0,Not Graduate,No,2333,1516,95,95000,360,1,Urban,Y,33018,Hialeah,25.92,-80.38
+LP001014,Alejandro,Rodriguez,Male,22,Yes,3+,Graduate,No,3036,2504,158,158000,360,0,Semiurban,N,33030,Homestead,25.49,-80.51
+LP001018,Alex,Sanchez,Male,42,Yes,2,Graduate,No,4006,1526,168,168000,360,1,Urban,Y,33031,Homestead,25.52,-80.5
+LP001020,Alexander,Brown,Male,32,Yes,1,Graduate,No,12841,10968,349,349000,360,1,Semiurban,N,33032,Homestead,25.53,-80.39
+LP001024,Alexis,Hernandez,Male,32,Yes,2,Graduate,No,3200,700,70,70000,360,1,Urban,Y,33033,Homestead,25.48,-80.41
+LP001027,Alfredo,Gonzalez,Male,28,Yes,2,Graduate,,2500,1840,109,109000,360,1,Urban,Y,33034,Homestead,25.27,-80.63
+LP001028,Alvaro,Perez,Male,52,Yes,2,Graduate,No,3073,8106,200,200000,360,1,Urban,Y,33035,Homestead,25.46,-80.45
+LP001029,Andrew,Wilson,Male,45,No,0,Graduate,No,1853,2840,114,114000,360,1,Rural,N,33039,Homestead,25.5,-80.4
+LP001030,Angel,Ramirez,Male,25,Yes,2,Graduate,No,1299,1086,17,17000,120,1,Urban,Y,33149,Key Biscayne,25.68,-80.16
+LP001032,Anthony,Taylor,Male,39,No,0,Graduate,No,4950,0,125,125000,360,1,Urban,Y,33122,Miami,25.81,-80.32
+LP001034,Antonio,Martinez,Male,25,No,1,Not Graduate,No,3596,0,100,100000,240,,Urban,Y,33125,Miami,25.78,-80.24
+LP001038,Axel,Johnson,Male,31,Yes,0,Not Graduate,No,4887,0,133,133000,360,1,Rural,N,33127,Miami,25.81,-80.21
+LP001041,Barry,Anderson,Male,49,Yes,0,Graduate,,2600,3500,115,115000,,1,Urban,Y,33128,Miami,25.78,-80.2
+LP001043,Benjamin,Rivera,Male,52,Yes,0,Not Graduate,No,7660,0,104,104000,360,0,Urban,N,33129,Miami,25.75,-80.19
+LP001046,Bernardo,Torres,Male,50,Yes,1,Graduate,No,5955,5625,315,315000,360,1,Urban,Y,33130,Miami,25.77,-80.2
+LP001047,Blake,Harris,Male,32,Yes,0,Not Graduate,No,2600,1911,116,116000,360,0,Semiurban,N,33131,Miami,25.77,-80.18
+LP001050,Bradley,Clark,,26,Yes,2,Not Graduate,No,3365,1917,112,112000,360,0,Rural,N,33132,Miami,25.78,-80.18
+LP001052,Brandon,White,Male,49,Yes,1,Graduate,,3717,2925,151,151000,360,,Semiurban,N,33133,Miami,25.73,-80.24
+LP001066,Brian,Lewis,Male,21,Yes,0,Graduate,Yes,9560,0,191,191000,360,1,Semiurban,Y,33134,Miami,25.75,-80.27
+LP001068,Bruce,Robinson,Male,27,Yes,0,Graduate,No,2799,2253,122,122000,360,1,Semiurban,Y,33135,Miami,25.77,-80.24
+LP001073,Bryan,Walker,Male,32,Yes,2,Not Graduate,No,4226,1040,110,110000,360,1,Urban,Y,33136,Miami,25.79,-80.2
+LP001086,Calvin,Hall,Male,30,No,0,Not Graduate,No,1442,0,35,35000,360,1,Urban,N,33137,Miami,25.82,-80.17
+LP001091,Carl,Young,Male,42,Yes,1,Graduate,,4166,3369,201,201000,360,,Urban,N,33142,Miami,25.81,-80.24
+LP001095,Casey,King,Male,20,No,0,Graduate,No,3167,0,74,74000,360,1,Urban,N,33143,Miami,25.7,-80.3
+LP001097,Cesar,Wright,Male,18,No,1,Graduate,Yes,4692,0,106,106000,360,1,Rural,N,33144,Miami,25.76,-80.31
+LP001098,Charles,Scott,Male,52,Yes,0,Graduate,No,3500,1667,114,114000,360,1,Semiurban,Y,33145,Miami,25.75,-80.23
+LP001100,Christian,Hill,Male,28,No,3+,Graduate,No,12500,3000,320,320000,360,1,Rural,N,33146,Miami,25.72,-80.27
+LP001106,Christopher,Green,Male,37,Yes,0,Graduate,No,2275,2067,,0,360,1,Urban,Y,33147,Miami,25.85,-80.24
+LP001109,Clarence,Adams,Male,26,Yes,0,Graduate,No,1828,1330,100,100000,,0,Urban,N,33150,Miami,25.85,-80.21
+LP001114,Clayton,Carter,Male,45,No,0,Graduate,No,4166,7210,184,184000,360,1,Urban,Y,33156,Miami,25.67,-80.3
+LP001116,Clifford,Mitchell,Male,46,No,0,Not Graduate,No,3748,1668,110,110000,360,1,Semiurban,Y,33157,Miami,25.61,-80.34
+LP001119,Colin,Roberts,Male,20,No,0,Graduate,No,3600,0,80,80000,360,1,Urban,N,33158,Miami,25.64,-80.31
+LP001120,Connor,Phillips,Male,31,No,0,Graduate,No,1800,1213,47,47000,360,1,Urban,Y,33161,Miami,25.89,-80.18
+LP001123,Conrad,Campbell,Male,24,Yes,0,Graduate,No,2400,0,75,75000,360,,Urban,Y,33162,Miami,25.93,-80.18
+LP001131,Cooper,Parker,Male,25,Yes,0,Graduate,No,3941,2336,134,134000,360,1,Semiurban,Y,33165,Miami,25.73,-80.36
+LP001136,Craig,Evans,Male,32,Yes,0,Not Graduate,Yes,4695,0,96,96000,,1,Urban,Y,33166,Miami,25.82,-80.3
+LP001138,Damian,Collins,Male,38,Yes,1,Graduate,No,5649,0,44,44000,360,1,Urban,Y,33168,Miami,25.89,-80.21
+LP001144,Daniel,Stewart,Male,19,Yes,0,Graduate,No,5821,0,144,144000,360,1,Urban,Y,33169,Miami,25.94,-80.21
+LP001179,Donald,Bell,Male,51,Yes,2,Graduate,No,4616,0,134,134000,360,1,Urban,N,33176,Miami,25.66,-80.36
+LP001194,Dylan,Bailey,Male,43,Yes,2,Graduate,No,2708,1167,97,97000,360,1,Semiurban,Y,33178,Miami,25.85,-80.41
+LP001195,Edgar,Rivera,Male,24,Yes,0,Graduate,No,2132,1591,96,96000,360,1,Semiurban,Y,33179,Miami,25.96,-80.18
+LP001197,Eduardo,Gonzalez,Male,40,Yes,0,Graduate,No,3366,2200,135,135000,360,1,Rural,N,33180,Miami,25.96,-80.14
+LP001198,Edward,Sanchez,Male,47,Yes,1,Graduate,No,8080,2250,180,180000,360,1,Urban,Y,33181,Miami,25.9,-80.15
+LP001199,Edwin,Peterson,Male,43,Yes,2,Not Graduate,No,3357,2859,144,144000,360,1,Urban,Y,33182,Miami,25.78,-80.41
+LP001205,Elias,Henderson,Male,23,Yes,0,Graduate,No,2500,3796,120,120000,360,1,Urban,Y,33183,Miami,25.7,-80.4
+LP001206,Elijah,Coleman,Male,33,Yes,3+,Graduate,No,3029,0,99,99000,360,1,Urban,Y,33184,Miami,25.76,-80.41
+LP001207,Elliot,Howard,Male,50,Yes,0,Not Graduate,Yes,2609,3449,165,165000,180,0,Rural,N,33185,Miami,25.73,-80.45
+LP001213,Emanuel,Ward,Male,29,Yes,1,Graduate,No,4945,0,,0,360,0,Rural,N,33186,Miami,25.65,-80.41
+LP001225,Emilio,Cox,Male,46,Yes,0,Graduate,No,5726,4595,258,258000,360,1,Semiurban,N,33189,Miami,25.57,-80.34
+LP001228,Enrique,Flores,Male,19,No,0,Not Graduate,No,3200,2254,126,126000,180,0,Urban,N,33190,Miami,25.56,-80.35
+LP001233,Eric,Butler,Male,34,Yes,1,Graduate,No,10750,0,312,312000,360,1,Urban,Y,33193,Miami,25.7,-80.47
+LP001238,Esteban,Bryant,Male,50,Yes,3+,Not Graduate,Yes,7100,0,125,125000,60,1,Urban,Y,33194,Miami,25.71,-80.58
+LP001243,Evan,Cooper,Male,38,Yes,0,Graduate,No,3208,3066,172,172000,360,1,Urban,Y,33101,Miami,25.78,-80.2
+LP001245,Fabian,Hughes,Male,41,Yes,2,Not Graduate,Yes,1875,1875,97,97000,360,1,Semiurban,Y,33109,Miami Beach,25.76,-80.14
+LP001248,Felipe,Kelly,Male,35,No,0,Graduate,No,3500,0,81,81000,300,1,Semiurban,Y,33139,Miami Beach,25.78,-80.15
+LP001250,Fernando,Foster,Male,25,Yes,3+,Not Graduate,No,4755,0,95,95000,,0,Semiurban,N,33140,Miami Beach,25.82,-80.13
+LP001253,Francisco,Perez,Male,46,Yes,3+,Graduate,Yes,5266,1774,187,187000,360,1,Semiurban,Y,33141,Miami Beach,25.85,-80.14
+LP001255,Frank,Morris,Male,22,No,0,Graduate,No,3750,0,113,113000,480,1,Urban,N,33154,Miami Beach,25.88,-80.13
+LP001256,Gabriel,Bryant,Male,47,No,0,Graduate,No,3750,4750,176,176000,360,1,Urban,N,33056,Miami Gardens,25.93,-80.26
+LP001259,Garrett,Cooper,Male,33,Yes,1,Graduate,Yes,1000,3022,110,110000,360,1,Urban,N,33160,North Miami Beach,25.93,-80.14
+LP001263,Gary,Jenkins,Male,32,Yes,3+,Graduate,No,3167,4000,180,180000,300,0,Semiurban,N,33054,Opa Locka,25.91,-80.27
+LP001264,George,Morris,Male,42,Yes,3+,Not Graduate,Yes,3333,2166,130,130000,360,,Semiurban,Y,33055,Opa Locka,25.95,-80.28
+LP001266,Gilberto,Fisher,Male,45,Yes,1,Graduate,Yes,2395,0,,0,360,1,Semiurban,Y,33012,Hialeah,25.86,-80.29
+LP001273,Gregory,Ramirez,Male,46,Yes,0,Graduate,No,6000,2250,265,265000,360,,Semiurban,N,33014,Hialeah,25.9,-80.3
+LP001275,Guillermo,Price,Male,35,Yes,1,Graduate,No,3988,0,50,50000,240,1,Urban,Y,33015,Hialeah,25.94,-80.32
+LP001279,Gustavo,Torres,Male,31,No,0,Graduate,No,2366,2531,136,136000,360,1,Semiurban,Y,33016,Hialeah,25.9,-80.33
+LP001280,Hans,Richardson,Male,35,Yes,2,Not Graduate,No,3333,2000,99,99000,360,,Semiurban,Y,33018,Hialeah,25.92,-80.38
+LP001282,Harold,Wood,Male,28,Yes,0,Graduate,No,2500,2118,104,104000,360,1,Semiurban,Y,33030,Homestead,25.49,-80.51
+LP001289,Hector,Perry,Male,20,No,0,Graduate,No,8566,0,210,210000,360,1,Urban,Y,33031,Homestead,25.52,-80.5
+LP001310,Henry,Bailey,Male,47,Yes,0,Graduate,No,5695,4167,175,175000,360,1,Semiurban,Y,33032,Homestead,25.53,-80.39
+LP001316,Herbert,Morales,Male,46,Yes,0,Graduate,No,2958,2900,131,131000,360,1,Semiurban,Y,33033,Homestead,25.48,-80.41
+LP001318,Hugo,Castillo,Male,46,Yes,2,Graduate,No,6250,5654,188,188000,180,1,Semiurban,Y,33034,Homestead,25.27,-80.63
+LP001319,Hunter,Daniels,Male,20,Yes,2,Not Graduate,No,3273,1820,81,81000,360,1,Urban,Y,33035,Homestead,25.46,-80.45
+LP001322,Ian,Alexander,Male,30,No,0,Graduate,No,4133,0,122,122000,360,1,Semiurban,Y,33039,Homestead,25.5,-80.4
+LP001325,Isaac,Spencer,Male,24,No,0,Not Graduate,No,3620,0,25,25000,120,1,Semiurban,Y,33149,Key Biscayne,25.68,-80.16
+LP001326,Isaiah,Barrett,Male,46,No,0,Graduate,,6782,0,,0,360,,Urban,N,33122,Miami,25.81,-80.32
+LP001333,Jack,Fox,Male,36,Yes,0,Graduate,No,1977,997,50,50000,360,1,Semiurban,Y,33126,Miami,25.78,-80.3
+LP001334,Jacob,Kennedy,Male,49,Yes,0,Not Graduate,No,4188,0,115,115000,180,1,Semiurban,Y,33127,Miami,25.81,-80.21
+LP001343,James,Hamilton,Male,39,Yes,0,Graduate,No,1759,3541,131,131000,360,1,Semiurban,Y,33128,Miami,25.78,-80.2
+LP001345,Jared,Graham,Male,25,Yes,2,Not Graduate,No,4288,3263,133,133000,180,1,Urban,Y,33129,Miami,25.75,-80.19
+LP001349,Jason,Patterson,Male,22,No,0,Graduate,No,4843,3806,151,151000,360,1,Semiurban,Y,33130,Miami,25.77,-80.2
+LP001350,Javier,Simmons,Male,33,Yes,,Graduate,No,13650,0,,0,360,1,Urban,Y,33131,Miami,25.77,-80.18
+LP001356,Jay,Ellis,Male,21,Yes,0,Graduate,No,4652,3583,,0,360,1,Semiurban,Y,33132,Miami,25.78,-80.18
+LP001357,Jeffery,Stevens,Male,21,,,Graduate,No,3816,754,160,160000,360,1,Urban,Y,33133,Miami,25.73,-80.24
+LP001367,Jeremiah,Alexander,Male,45,Yes,1,Graduate,No,3052,1030,100,100000,360,1,Urban,Y,33134,Miami,25.75,-80.27
+LP001369,Jeremy,Hayes,Male,33,Yes,2,Graduate,No,11417,1126,225,225000,360,1,Urban,Y,33135,Miami,25.77,-80.24
+LP001370,Jerome,Long,Male,36,No,0,Not Graduate,,7333,0,120,120000,360,1,Rural,N,33136,Miami,25.79,-80.2
+LP001379,Jesse,Chapman,Male,24,Yes,2,Graduate,No,3800,3600,216,216000,360,0,Urban,N,33137,Miami,25.82,-80.17
+LP001384,Jesus,Lawson,Male,38,Yes,3+,Not Graduate,No,2071,754,94,94000,480,1,Semiurban,Y,33138,Miami,25.85,-80.18
+LP001385,Joel,Riley,Male,20,No,0,Graduate,No,5316,0,136,136000,360,1,Urban,Y,33142,Miami,25.81,-80.24
+LP001391,Jonathan,Alexander,Male,34,Yes,0,Not Graduate,No,3572,4114,152,152000,,0,Rural,N,33144,Miami,25.76,-80.31
+LP001398,Jose,Porter,Male,33,No,0,Graduate,,5050,0,118,118000,360,1,Semiurban,Y,33146,Miami,25.72,-80.27
+LP001401,Joseph,Sanders,Male,41,Yes,1,Graduate,No,14583,0,185,185000,180,1,Rural,Y,33147,Miami,25.85,-80.24
+LP001405,Juan,Hunter,Male,38,Yes,1,Graduate,No,2214,1398,85,85000,360,,Urban,Y,33155,Miami,25.74,-80.31
+LP001421,Julian,Harrison,Male,39,Yes,0,Graduate,No,5568,2142,175,175000,360,1,Rural,N,33156,Miami,25.67,-80.3
+LP001426,Justin,McDonald,Male,52,Yes,,Graduate,No,5667,2667,180,180000,360,1,Rural,Y,33158,Miami,25.64,-80.31
+LP001432,Kenneth,Ramos,Male,45,Yes,2,Graduate,No,2957,0,81,81000,360,1,Semiurban,Y,33165,Miami,25.73,-80.36
+LP001439,Kevin,Jordan,Male,24,Yes,0,Not Graduate,No,4300,2014,194,194000,360,1,Rural,Y,33166,Miami,25.82,-80.3
+LP001448,Lance,Robertson,,39,Yes,3+,Graduate,No,23803,0,370,370000,360,1,Rural,Y,33168,Miami,25.89,-80.21
+LP001449,Larry,Fisher,Male,46,No,0,Graduate,No,3865,1640,,0,360,1,Rural,Y,33169,Miami,25.94,-80.21
+LP001451,Lawrence,Lawson,Male,42,Yes,1,Graduate,Yes,10513,3850,160,160000,180,0,Urban,N,33170,Miami,25.56,-80.46
+LP001465,Leonard,Shaw,Male,26,Yes,0,Graduate,No,6080,2569,182,182000,360,,Rural,N,33172,Miami,25.79,-80.36
+LP001469,Leonardo,Perkins,Male,31,No,0,Graduate,Yes,20166,0,650,650000,480,,Urban,Y,33173,Miami,25.7,-80.36
+LP001473,Leroy,Peters,Male,25,No,0,Graduate,No,2014,1929,74,74000,360,1,Urban,Y,33174,Miami,25.76,-80.36
+LP001478,Levi,Hamilton,Male,24,No,0,Graduate,No,2718,0,70,70000,360,1,Semiurban,Y,33175,Miami,25.73,-80.41
+LP001482,Liam,Webb,Male,22,Yes,0,Graduate,Yes,3459,0,25,25000,120,1,Semiurban,Y,33176,Miami,25.66,-80.36
+LP001487,Logan,Richards,Male,49,No,0,Graduate,No,4895,0,102,102000,360,1,Semiurban,Y,33177,Miami,25.6,-80.4
+LP001488,Lorenzo,Alexander,Male,22,Yes,3+,Graduate,No,4000,7750,290,290000,360,1,Semiurban,N,33178,Miami,25.85,-80.41
+LP001491,Lucas,Carter,Male,49,Yes,2,Graduate,Yes,3316,3500,88,88000,360,1,Urban,Y,33180,Miami,25.96,-80.14
+LP001492,Luis,Bennett,Male,44,No,0,Graduate,No,14999,0,242,242000,360,0,Semiurban,N,33181,Miami,25.9,-80.15
+LP001493,Luke,Coleman,Male,29,Yes,2,Not Graduate,No,4200,1430,129,129000,360,1,Rural,N,33182,Miami,25.78,-80.41
+LP001497,Manuel,James,Male,20,Yes,2,Graduate,No,5042,2083,185,185000,360,1,Rural,N,33183,Miami,25.7,-80.4
+LP001498,Marc,Harris,Male,34,No,0,Graduate,No,5417,0,168,168000,360,1,Urban,Y,33184,Miami,25.76,-80.41
+LP001504,Marco,Wood,Male,51,No,0,Graduate,Yes,6950,0,175,175000,180,1,Semiurban,Y,33185,Miami,25.73,-80.45
+LP001507,Marcos,Rogers,Male,49,Yes,0,Graduate,No,2698,2034,122,122000,360,1,Semiurban,Y,33186,Miami,25.65,-80.41
+LP001508,Marcus,Fisher,Male,51,Yes,2,Graduate,No,11757,0,187,187000,180,1,Urban,Y,33187,Miami,25.6,-80.51
+LP001518,Martin,Ortiz,Male,31,Yes,1,Graduate,No,1538,1425,30,30000,360,1,Urban,Y,33193,Miami,25.7,-80.47
+LP001520,Mason,Alexander,Male,51,Yes,0,Graduate,No,4860,830,125,125000,360,1,Semiurban,Y,33196,Miami,25.65,-80.49
+LP001528,Mateo,Rivera,Male,52,No,0,Graduate,No,6277,0,118,118000,360,0,Rural,N,33101,Miami,25.78,-80.2
+LP001529,Mathew,Adams,Male,40,Yes,0,Graduate,Yes,2577,3750,152,152000,360,1,Rural,Y,33109,Miami Beach,25.76,-80.14
+LP001531,Matthew,Reed,Male,43,No,0,Graduate,No,9166,0,244,244000,360,1,Urban,N,33139,Miami Beach,25.78,-80.15
+LP001532,Maurice,Barnes,Male,40,Yes,2,Not Graduate,No,2281,0,113,113000,360,1,Rural,N,33140,Miami Beach,25.82,-80.13
+LP001535,Max,Bryant,Male,38,No,0,Graduate,No,3254,0,50,50000,360,1,Urban,Y,33141,Miami Beach,25.85,-80.14
+LP001536,Maxwell,Jenkins,Male,31,Yes,3+,Graduate,No,39999,0,600,600000,180,0,Semiurban,Y,33154,Miami Beach,25.88,-80.13
+LP001541,Michael,Sanders,Male,18,Yes,1,Graduate,No,6000,0,160,160000,360,,Rural,Y,33056,Miami Gardens,25.93,-80.26
+LP001543,Miguel,Reed,Male,19,Yes,1,Graduate,No,9538,0,187,187000,360,1,Urban,Y,33160,North Miami Beach,25.93,-80.14
+LP001546,Mitchell,Myers,Male,20,No,0,Graduate,,2980,2083,120,120000,360,1,Rural,Y,33054,Opa Locka,25.91,-80.27
+LP001552,Nathan,Gonzales,Male,43,Yes,0,Graduate,No,4583,5625,255,255000,360,1,Semiurban,Y,33055,Opa Locka,25.95,-80.28
+LP001560,Nathaniel,Perry,Male,38,Yes,0,Not Graduate,No,1863,1041,98,98000,360,1,Semiurban,Y,33010,Hialeah,25.83,-80.28
+LP001562,Neil,Henderson,Male,27,Yes,0,Graduate,No,7933,0,275,275000,360,1,Urban,N,33012,Hialeah,25.86,-80.29
+LP001565,Nelson,Alexander,Male,18,Yes,1,Graduate,No,3089,1280,121,121000,360,0,Semiurban,N,33013,Hialeah,25.86,-80.27
+LP001570,Nicholas,Price,Male,19,Yes,2,Graduate,No,4167,1447,158,158000,360,1,Rural,Y,33014,Hialeah,25.9,-80.3
+LP001572,Noah,Rivera,Male,51,Yes,0,Graduate,No,9323,0,75,75000,180,1,Urban,Y,33015,Hialeah,25.94,-80.32
+LP001574,Norman,Hughes,Male,22,Yes,0,Graduate,No,3707,3166,182,182000,,1,Rural,Y,33016,Hialeah,25.9,-80.33
+LP001578,Omar,Fisher,Male,46,Yes,0,Graduate,No,2439,3333,129,129000,360,1,Rural,Y,33030,Homestead,25.49,-80.51
+LP001579,Orlando,Alexander,Male,19,No,0,Graduate,No,2237,0,63,63000,480,0,Semiurban,N,33031,Homestead,25.52,-80.5
+LP001580,Oscar,Perry,Male,30,Yes,2,Graduate,No,8000,0,200,200000,360,1,Semiurban,Y,33032,Homestead,25.53,-80.39
+LP001581,Owen,Parker,Male,42,Yes,0,Not Graduate,,1820,1769,95,95000,360,1,Rural,Y,33033,Homestead,25.48,-80.41
+LP001585,Pablo,Alexander,,22,Yes,3+,Graduate,No,51763,0,700,700000,300,1,Urban,Y,33034,Homestead,25.27,-80.63
+LP001586,Patrick,Ward,Male,26,Yes,3+,Not Graduate,No,3522,0,81,81000,180,1,Rural,N,33035,Homestead,25.46,-80.45
+LP001594,Paul,Sanchez,Male,29,Yes,0,Graduate,No,5708,5625,187,187000,360,1,Semiurban,Y,33039,Homestead,25.5,-80.4
+LP001603,Pedro,Collins,Male,43,Yes,0,Not Graduate,Yes,4344,736,87,87000,360,1,Semiurban,N,33149,Key Biscayne,25.68,-80.16
+LP001606,Perry,Watson,Male,29,Yes,0,Graduate,No,3497,1964,116,116000,360,1,Rural,Y,33122,Miami,25.81,-80.32
+LP001608,Peter,Brooks,Male,33,Yes,2,Graduate,No,2045,1619,101,101000,360,1,Rural,Y,33125,Miami,25.78,-80.24
+LP001610,Philip,James,Male,42,Yes,3+,Graduate,No,5516,11300,495,495000,360,0,Semiurban,N,33126,Miami,25.78,-80.3
+LP001616,Phillip,Griffin,Male,34,Yes,1,Graduate,No,3750,0,116,116000,360,1,Semiurban,Y,33127,Miami,25.81,-80.21
+LP001630,Preston,Bennett,Male,20,No,0,Not Graduate,No,2333,1451,102,102000,480,0,Urban,N,33128,Miami,25.78,-80.2
+LP001633,Rafael,Rivera,Male,21,Yes,1,Graduate,No,6400,7250,180,180000,360,0,Urban,N,33129,Miami,25.75,-80.19
+LP001634,Raul,Peterson,Male,26,No,0,Graduate,No,1916,5063,67,67000,360,,Rural,N,33130,Miami,25.77,-80.2
+LP001636,Raymond,Rivera,Male,26,Yes,0,Graduate,No,4600,0,73,73000,180,1,Semiurban,Y,33131,Miami,25.77,-80.18
+LP001637,Ricardo,Sanders,Male,27,Yes,1,Graduate,No,33846,0,260,260000,360,1,Semiurban,N,33132,Miami,25.78,-80.18
+LP001640,Ricky,Barnes,Male,20,Yes,0,Graduate,Yes,39147,4750,120,120000,360,1,Semiurban,Y,33134,Miami,25.75,-80.27
+LP001641,Robert,Rivera,Male,47,Yes,1,Graduate,Yes,2178,0,66,66000,300,0,Rural,N,33135,Miami,25.77,-80.24
+LP001643,Roberto,Hughes,Male,26,Yes,0,Graduate,No,2383,2138,58,58000,360,,Rural,Y,33136,Miami,25.79,-80.2
+LP001644,Rodney,Bailey,,37,Yes,0,Graduate,Yes,674,5296,168,168000,360,1,Rural,Y,33137,Miami,25.82,-80.17
+LP001647,Roger,Patterson,Male,47,Yes,0,Graduate,No,9328,0,188,188000,180,1,Rural,Y,33138,Miami,25.85,-80.18
+LP001653,Roland,Rivera,Male,45,No,0,Not Graduate,No,4885,0,48,48000,360,1,Rural,Y,33142,Miami,25.81,-80.24
+LP001656,Roman,Roberts,Male,34,No,0,Graduate,No,12000,0,164,164000,360,1,Semiurban,N,33143,Miami,25.7,-80.3
+LP001657,Ronald,Alexander,Male,24,Yes,0,Not Graduate,No,6033,0,160,160000,360,1,Urban,N,33144,Miami,25.76,-80.31
+LP001658,Roy,Gonzales,Male,23,No,0,Graduate,No,3858,0,76,76000,360,1,Semiurban,Y,33145,Miami,25.75,-80.23
+LP001664,Ruben,Fisher,Male,38,No,0,Graduate,No,4191,0,120,120000,360,1,Rural,Y,33146,Miami,25.72,-80.27
+LP001665,Russell,King,Male,51,Yes,1,Graduate,No,3125,2583,170,170000,360,1,Semiurban,N,33147,Miami,25.85,-80.24
+LP001666,Ryan,Fisher,Male,43,No,0,Graduate,No,8333,3750,187,187000,360,1,Rural,Y,33150,Miami,25.85,-80.21
+LP001673,Santiago,Bailey,Male,27,No,0,Graduate,Yes,11000,0,83,83000,360,1,Urban,N,33157,Miami,25.61,-80.34
+LP001674,Scott,Griffin,Male,23,Yes,1,Not Graduate,No,2600,2500,90,90000,360,1,Semiurban,Y,33158,Miami,25.64,-80.31
+LP001677,Sean,Rivera,Male,42,No,2,Graduate,No,4923,0,166,166000,360,0,Semiurban,Y,33161,Miami,25.89,-80.18
+LP001682,Sergio,Garcia,Male,51,Yes,3+,Not Graduate,No,3992,0,,0,180,1,Urban,N,33162,Miami,25.93,-80.18
+LP001688,Seth,Adams,Male,31,Yes,1,Not Graduate,No,3500,1083,135,135000,360,1,Urban,Y,33165,Miami,25.73,-80.36
+LP001691,Shane,Rivera,Male,41,Yes,2,Not Graduate,No,3917,0,124,124000,360,1,Semiurban,Y,33166,Miami,25.82,-80.3
+LP001698,Spencer,Alexander,Male,50,No,0,Not Graduate,No,3975,2531,55,55000,360,1,Rural,Y,33169,Miami,25.94,-80.21
+LP001699,Stanley,Parker,Male,34,No,0,Graduate,No,2479,0,59,59000,360,1,Urban,Y,33170,Miami,25.56,-80.46
+LP001702,Stephen,Rivera,Male,27,No,0,Graduate,No,3418,0,127,127000,360,1,Semiurban,N,33172,Miami,25.79,-80.36
+LP001711,Steven,Lopez,Male,32,Yes,3+,Graduate,No,3430,1250,128,128000,360,0,Semiurban,N,33174,Miami,25.76,-80.36
+LP001713,Stuart,Rivera,Male,48,Yes,1,Graduate,Yes,7787,0,240,240000,360,1,Urban,Y,33175,Miami,25.73,-80.41
+LP001715,Terence,Parker,Male,32,Yes,3+,Not Graduate,Yes,5703,0,130,130000,360,1,Rural,Y,33176,Miami,25.66,-80.36
+LP001716,Terry,Morris,Male,23,Yes,0,Graduate,No,3173,3021,137,137000,360,1,Urban,Y,33177,Miami,25.6,-80.4
+LP001720,Theodore,Alexander,Male,33,Yes,3+,Not Graduate,No,3850,983,100,100000,360,1,Semiurban,Y,33178,Miami,25.85,-80.41
+LP001722,Thomas,Adams,Male,42,Yes,0,Graduate,No,150,1800,135,135000,360,1,Rural,N,33179,Miami,25.96,-80.18
+LP001726,Timothy,Rivera,Male,42,Yes,0,Graduate,No,3727,1775,131,131000,360,1,Semiurban,Y,33180,Miami,25.96,-80.14
+LP001732,Todd,Parker,Male,26,Yes,2,Graduate,,5000,0,72,72000,360,0,Semiurban,N,33181,Miami,25.9,-80.15
+LP001736,Tony,Morris,Male,30,Yes,0,Graduate,No,2221,0,60,60000,360,0,Urban,N,33183,Miami,25.7,-80.4
+LP001743,Travis,Parker,Male,35,Yes,2,Graduate,No,4009,1717,116,116000,360,1,Semiurban,Y,33184,Miami,25.76,-80.41
+LP001744,Trevor,Rivera,Male,25,No,0,Graduate,No,2971,2791,144,144000,360,1,Semiurban,Y,33185,Miami,25.73,-80.45
+LP001749,Tristan,Bailey,Male,49,Yes,0,Graduate,No,7578,1010,175,175000,,1,Semiurban,Y,33186,Miami,25.65,-80.41
+LP001750,Troy,Rivera,Male,29,Yes,0,Graduate,No,6250,0,128,128000,360,1,Semiurban,Y,33187,Miami,25.6,-80.51
+LP001751,Tyler,Parker,Male,47,Yes,0,Graduate,No,3250,0,170,170000,360,1,Rural,N,33189,Miami,25.57,-80.34
+LP001754,Victor,Rivera,Male,40,Yes,,Not Graduate,Yes,4735,0,138,138000,360,1,Urban,N,33190,Miami,25.56,-80.35
+LP001758,Vincent,Alexander,Male,52,Yes,2,Graduate,No,6250,1695,210,210000,360,1,Semiurban,Y,33193,Miami,25.7,-80.47
+LP001760,Wade,Rivera,Male,52,,,Graduate,No,4758,0,158,158000,480,1,Semiurban,Y,33194,Miami,25.71,-80.58
+LP001761,Walter,Parker,Male,40,No,0,Graduate,Yes,6400,0,200,200000,360,1,Rural,Y,33196,Miami,25.65,-80.49
+LP001765,Warren,Rivera,Male,49,Yes,1,Graduate,No,2491,2054,104,104000,360,1,Semiurban,Y,33101,Miami,25.78,-80.2
+LP001768,Wayne,Alexander,Male,29,Yes,0,Graduate,,3716,0,42,42000,180,1,Rural,Y,33109,Miami Beach,25.76,-80.14
+LP001770,Wesley,Parker,Male,33,No,0,Not Graduate,No,3189,2598,120,120000,,1,Rural,Y,33139,Miami Beach,25.78,-80.15
+LP001778,Wilson,Rivera,Male,28,Yes,1,Graduate,No,3155,1779,140,140000,360,1,Semiurban,Y,33141,Miami Beach,25.85,-80.14
+LP001784,Xavier,Parker,Male,44,Yes,1,Graduate,No,5500,1260,170,170000,360,1,Rural,Y,33154,Miami Beach,25.88,-80.13
+LP001786,Zachary,Alexander,Male,36,Yes,0,Graduate,,5746,0,255,255000,360,,Urban,N,33056,Miami Gardens,25.93,-80.26
+LP001792,Adonis,Rivera,Male,32,Yes,1,Graduate,No,3315,0,96,96000,360,1,Semiurban,Y,33055,Opa Locka,25.95,-80.28
+LP001798,Adrian,Alexander,Male,20,Yes,2,Graduate,No,5819,5000,120,120000,360,1,Rural,Y,33010,Hialeah,25.83,-80.28
+LP001800,Agustin,Parker,Male,27,Yes,1,Not Graduate,No,2510,1983,140,140000,180,1,Urban,N,33012,Hialeah,25.86,-80.29
+LP001806,Alberto,Rivera,Male,22,No,0,Graduate,No,2965,5701,155,155000,60,1,Urban,Y,33013,Hialeah,25.86,-80.27
+LP001807,Alejandro,Parker,Male,49,Yes,2,Graduate,Yes,6250,1300,108,108000,360,1,Rural,Y,33014,Hialeah,25.9,-80.3
+LP001811,Alexis,Rivera,Male,44,Yes,0,Not Graduate,No,3406,4417,123,123000,360,1,Semiurban,Y,33015,Hialeah,25.94,-80.32
+LP001813,Alfredo,Alexander,Male,21,No,0,Graduate,Yes,6050,4333,120,120000,180,1,Urban,N,33016,Hialeah,25.9,-80.33
+LP001814,Alonso,Parker,Male,44,Yes,2,Graduate,No,9703,0,112,112000,360,1,Urban,Y,33018,Hialeah,25.92,-80.38
+LP001819,Alvaro,Rivera,Male,27,Yes,1,Not Graduate,No,6608,0,137,137000,180,1,Urban,Y,33030,Homestead,25.49,-80.51
+LP001824,Amadeo,Parker,Male,47,Yes,1,Graduate,No,2882,1843,123,123000,480,1,Semiurban,Y,33031,Homestead,25.52,-80.5
+LP001825,Amado,Alexander,Male,26,Yes,0,Graduate,No,1809,1868,90,90000,360,1,Urban,Y,33032,Homestead,25.53,-80.39
+LP001835,Amador,Rivera,Male,44,Yes,0,Not Graduate,No,1668,3890,201,201000,360,0,Semiurban,N,33033,Homestead,25.48,-80.41
+LP001841,Ambrosio,Rivera,Male,39,No,0,Not Graduate,Yes,2583,2167,104,104000,360,1,Rural,Y,33035,Homestead,25.46,-80.45
+LP001843,Americo,Parker,Male,49,Yes,1,Not Graduate,No,2661,7101,279,279000,180,1,Semiurban,Y,33039,Homestead,25.5,-80.4
+LP001844,Anacleto,Alexander,Male,50,No,0,Graduate,Yes,16250,0,192,192000,360,0,Urban,N,33149,Key Biscayne,25.68,-80.16
+LP001849,Antero,Parker,Male,29,No,0,Not Graduate,No,6045,0,115,115000,360,0,Rural,N,33125,Miami,25.78,-80.24
+LP001854,Antonio,Alexander,Male,47,Yes,3+,Graduate,No,5250,0,94,94000,360,1,Urban,N,33126,Miami,25.78,-80.3
+LP001859,Arcadio,Parker,Male,41,Yes,0,Graduate,No,14683,2100,304,304000,360,1,Rural,N,33127,Miami,25.81,-80.21
+LP001864,Armando,Rivera,Male,41,Yes,3+,Not Graduate,No,4931,0,128,128000,360,,Semiurban,N,33128,Miami,25.78,-80.2
+LP001865,Arsenio,Parker,Male,41,Yes,1,Graduate,No,6083,4250,330,330000,360,,Urban,Y,33129,Miami,25.75,-80.19
+LP001868,Arturo,Alexander,Male,26,No,0,Graduate,No,2060,2209,134,134000,360,1,Semiurban,Y,33130,Miami,25.77,-80.2
+LP001872,Baldomero,Alexander,Male,41,No,0,Graduate,Yes,5166,0,128,128000,360,1,Semiurban,Y,33133,Miami,25.73,-80.24
+LP001875,Baltasar,Parker,Male,35,No,0,Graduate,No,4095,3447,151,151000,360,1,Rural,Y,33134,Miami,25.75,-80.27
+LP001877,Bartolome,Rivera,Male,47,Yes,2,Graduate,No,4708,1387,150,150000,360,1,Semiurban,Y,33135,Miami,25.77,-80.24
+LP001882,Basilio,Parker,Male,26,Yes,3+,Graduate,No,4333,1811,160,160000,360,0,Urban,Y,33136,Miami,25.79,-80.2
+LP001891,Benjamín,Rivera,Male,43,Yes,0,Graduate,No,11146,0,136,136000,360,1,Urban,Y,33143,Miami,25.7,-80.3
+LP001892,Bernardo,Parker,Male,38,No,0,Graduate,No,2833,1857,126,126000,360,1,Rural,Y,33144,Miami,25.76,-80.31
+LP001894,Blas,Alexander,Male,28,Yes,0,Graduate,No,2620,2223,150,150000,360,1,Semiurban,Y,33145,Miami,25.75,-80.23
+LP001896,Braulio,Rivera,Male,24,Yes,2,Graduate,No,3900,0,90,90000,360,1,Semiurban,Y,33146,Miami,25.72,-80.27
+LP001900,Camilo,Parker,Male,49,Yes,1,Graduate,No,2750,1842,115,115000,360,1,Semiurban,Y,33147,Miami,25.85,-80.24
+LP001903,Candelario,Alexander,Male,21,Yes,0,Graduate,No,3993,3274,207,207000,360,1,Semiurban,Y,33150,Miami,25.85,-80.21
+LP001904,Carlos,Rivera,Male,37,Yes,0,Graduate,No,3103,1300,80,80000,360,1,Urban,Y,33155,Miami,25.74,-80.31
+LP001907,Carmelo,Parker,Male,22,Yes,0,Graduate,No,14583,0,436,436000,360,1,Semiurban,Y,33156,Miami,25.67,-80.3
+LP001910,Cecilio,Rivera,Male,19,No,1,Not Graduate,Yes,4053,2426,158,158000,360,0,Urban,N,33158,Miami,25.64,-80.31
+LP001914,Celestino,Parker,Male,21,Yes,0,Graduate,No,3927,800,112,112000,360,1,Semiurban,Y,33161,Miami,25.89,-80.18
+LP001915,Cesar,Alexander,Male,38,Yes,2,Graduate,No,2301,985.7999878,78,78000,180,1,Urban,Y,33162,Miami,25.93,-80.18
+LP001922,Clemente,Parker,Male,47,Yes,0,Graduate,No,20667,0,,0,360,1,Rural,N,33166,Miami,25.82,-80.3
+LP001924,Cleofas,Alexander,Male,43,No,0,Graduate,No,3158,3053,89,89000,360,1,Rural,Y,33167,Miami,25.88,-80.24
+LP001926,Constantino,Parker,Male,42,Yes,0,Graduate,No,3704,2000,120,120000,360,1,Rural,Y,33169,Miami,25.94,-80.21
+LP001935,Custodio,Rivera,Male,18,No,0,Graduate,No,9508,0,187,187000,360,1,Rural,Y,33172,Miami,25.79,-80.36
+LP001936,Damian,Parker,Male,20,Yes,0,Graduate,No,3075,2416,139,139000,360,1,Rural,Y,33173,Miami,25.7,-80.36
+LP001938,Dario,Alexander,Male,36,Yes,2,Graduate,No,4400,0,127,127000,360,0,Semiurban,N,33174,Miami,25.76,-80.36
+LP001940,David,Rivera,Male,46,Yes,2,Graduate,No,3153,1560,134,134000,360,1,Urban,Y,33175,Miami,25.73,-80.41
+LP001947,Diego,Alexander,Male,28,Yes,0,Graduate,No,2383,3334,172,172000,360,1,Semiurban,Y,33177,Miami,25.6,-80.4
+LP001949,Dionisio,Rivera,Male,47,Yes,3+,Graduate,,4416,1250,110,110000,360,1,Urban,Y,33178,Miami,25.85,-80.41
+LP001953,Domingo,Parker,Male,42,Yes,1,Graduate,No,6875,0,200,200000,360,1,Semiurban,Y,33179,Miami,25.96,-80.18
+LP001963,Eduardo,Parker,Male,45,Yes,1,Graduate,No,2014,2925,113,113000,360,1,Urban,N,33182,Miami,25.78,-80.41
+LP001964,Elias,Alexander,Male,24,Yes,0,Not Graduate,No,1800,2934,93,93000,360,0,Urban,N,33183,Miami,25.7,-80.4
+LP001972,Emiliano,Rivera,Male,18,Yes,,Not Graduate,No,2875,1750,105,105000,360,1,Semiurban,Y,33184,Miami,25.76,-80.41
+LP001977,Enrique,Alexander,Male,44,Yes,1,Graduate,No,1625,1803,96,96000,360,1,Urban,Y,33186,Miami,25.65,-80.41
+LP001978,Ernesto,Rivera,Male,40,No,0,Graduate,No,4000,2500,140,140000,360,1,Rural,Y,33187,Miami,25.6,-80.51
+LP001990,Esteban,Parker,Male,29,No,0,Not Graduate,No,2000,0,,0,360,1,Urban,N,33189,Miami,25.57,-80.34
+LP001996,Facundo,Parker,Male,19,No,0,Graduate,No,20233,0,480,480000,360,1,Rural,N,33194,Miami,25.71,-80.58
+LP001998,Federico,Alexander,Male,41,Yes,2,Not Graduate,No,7667,0,185,185000,360,,Rural,Y,33196,Miami,25.65,-80.49
+LP002004,Fernando,Parker,Male,31,No,0,Not Graduate,No,2927,2405,111,111000,360,1,Semiurban,Y,33109,Miami Beach,25.76,-80.14
+LP002008,Fidel,Rivera,Male,46,Yes,2,Graduate,Yes,5746,0,144,144000,84,,Rural,Y,33140,Miami Beach,25.82,-80.13
+LP002024,Flavio,Parker,,26,Yes,0,Graduate,No,2473,1843,159,159000,360,1,Rural,N,33141,Miami Beach,25.85,-80.14
+LP002031,Florencio,Alexander,Male,50,Yes,1,Not Graduate,No,3399,1640,111,111000,180,1,Urban,Y,33154,Miami Beach,25.88,-80.13
+LP002035,Florentino,Rivera,Male,23,Yes,2,Graduate,No,3717,0,120,120000,360,1,Semiurban,Y,33056,Miami Gardens,25.93,-80.26
+LP002036,Francisco,Parker,Male,50,Yes,0,Graduate,No,2058,2134,88,88000,360,,Urban,Y,33160,North Miami Beach,25.93,-80.14
+LP002050,Gaspar,Rivera,Male,35,Yes,1,Graduate,Yes,10000,0,155,155000,360,1,Rural,N,33055,Opa Locka,25.95,-80.28
+LP002051,Generoso,Parker,Male,49,Yes,0,Graduate,No,2400,2167,115,115000,360,1,Semiurban,Y,33010,Hialeah,25.83,-80.28
+LP002053,Gerardo,Alexander,Male,18,Yes,3+,Graduate,No,4342,189,124,124000,360,1,Semiurban,Y,33012,Hialeah,25.86,-80.29
+LP002054,German,Rivera,Male,40,Yes,2,Not Graduate,No,3601,1590,,0,360,1,Rural,Y,33013,Hialeah,25.86,-80.27
+LP002065,Gonzalo,Alexander,Male,41,Yes,3+,Graduate,No,15000,0,300,300000,360,1,Rural,Y,33015,Hialeah,25.94,-80.32
+LP002067,Gregorio,Rivera,Male,27,Yes,1,Graduate,Yes,8666,4983,376,376000,360,0,Rural,N,33016,Hialeah,25.9,-80.33
+LP002068,Guillermo,Parker,Male,24,No,0,Graduate,No,4917,0,130,130000,360,0,Rural,Y,33018,Hialeah,25.92,-80.38
+LP002082,Gustavo,Alexander,Male,45,Yes,0,Graduate,Yes,5818,2160,184,184000,360,1,Semiurban,Y,33030,Homestead,25.49,-80.51
+LP002097,Homero,Alexander,Male,37,No,1,Graduate,No,4384,1793,117,117000,360,1,Urban,Y,33033,Homestead,25.48,-80.41
+LP002098,Horacio,Rivera,Male,27,No,0,Graduate,No,2935,0,98,98000,360,1,Semiurban,Y,33034,Homestead,25.27,-80.63
+LP002100,Humberto,Parker,Male,44,No,,Graduate,No,2833,0,71,71000,360,1,Urban,Y,33035,Homestead,25.46,-80.45
+LP002101,Ignacio,Alexander,Male,25,Yes,0,Graduate,,63337,0,490,490000,180,1,Urban,Y,33039,Homestead,25.5,-80.4
+LP002103,Isidro,Rivera,,21,Yes,1,Graduate,Yes,9833,1833,182,182000,180,1,Urban,Y,33149,Key Biscayne,25.68,-80.16
+LP002106,Ismael,Parker,Male,26,Yes,,Graduate,Yes,5503,4490,70,70000,,1,Semiurban,Y,33122,Miami,25.81,-80.32
+LP002110,Ivan,Alexander,Male,19,Yes,1,Graduate,,5250,688,160,160000,360,1,Rural,Y,33125,Miami,25.78,-80.24
+LP002112,Jacinto,Rivera,Male,51,Yes,2,Graduate,Yes,2500,4600,176,176000,360,1,Rural,Y,33126,Miami,25.78,-80.3
+LP002115,Jeremias,Rivera,Male,39,Yes,3+,Not Graduate,No,2647,1587,173,173000,360,1,Rural,N,33129,Miami,25.75,-80.19
+LP002119,Jorge,Alexander,Male,46,Yes,1,Not Graduate,No,4554,1229,158,158000,360,1,Urban,Y,33131,Miami,25.77,-80.18
+LP002126,Jose,Rivera,Male,34,Yes,3+,Not Graduate,No,3173,0,74,74000,360,1,Semiurban,Y,33132,Miami,25.78,-80.18
+LP002128,Juan,Parker,Male,27,Yes,2,Graduate,,2583,2330,125,125000,360,1,Rural,Y,33133,Miami,25.73,-80.24
+LP002129,Julio,Alexander,Male,21,Yes,0,Graduate,No,2499,2458,160,160000,360,1,Semiurban,Y,33134,Miami,25.75,-80.27
+LP002130,Justiniano,Rivera,Male,49,Yes,,Not Graduate,No,3523,3230,152,152000,360,0,Rural,N,33135,Miami,25.77,-80.24
+LP002131,Juvenal,Parker,Male,41,Yes,2,Not Graduate,No,3083,2168,126,126000,360,1,Urban,Y,33136,Miami,25.79,-80.2
+LP002137,Lamberto,Alexander,Male,50,Yes,0,Graduate,No,6333,4583,259,259000,360,,Semiurban,Y,33137,Miami,25.82,-80.17
+LP002138,Leonardo,Rivera,Male,38,Yes,0,Graduate,No,2625,6250,187,187000,360,1,Rural,Y,33138,Miami,25.85,-80.18
+LP002139,Leopoldo,Parker,Male,21,Yes,0,Graduate,No,9083,0,228,228000,360,1,Semiurban,Y,33142,Miami,25.81,-80.24
+LP002140,Lorenzo,Alexander,Male,40,No,0,Graduate,No,8750,4167,308,308000,360,1,Rural,N,33143,Miami,25.7,-80.3
+LP002141,Luciano,Rivera,Male,23,Yes,3+,Graduate,No,2666,2083,95,95000,360,1,Rural,Y,33144,Miami,25.76,-80.31
+LP002149,Marcelino,Parker,Male,32,Yes,2,Graduate,No,8333,3167,165,165000,360,1,Rural,Y,33150,Miami,25.85,-80.21
+LP002151,Marcos,Alexander,Male,34,Yes,1,Graduate,No,3875,0,67,67000,360,1,Urban,N,33155,Miami,25.74,-80.31
+LP002158,Mariano,Rivera,Male,42,Yes,0,Not Graduate,No,3000,1666,100,100000,480,0,Urban,N,33156,Miami,25.67,-80.3
+LP002160,Mario,Parker,Male,34,Yes,3+,Graduate,No,5167,3167,200,200000,360,1,Semiurban,Y,33157,Miami,25.61,-80.34
+LP002170,Mateo,Rivera,Male,22,Yes,2,Graduate,No,5000,3667,236,236000,360,1,Semiurban,Y,33161,Miami,25.89,-80.18
+LP002175,Matias,Parker,Male,19,Yes,0,Graduate,No,4750,2333,130,130000,360,1,Urban,Y,33162,Miami,25.93,-80.18
+LP002178,Maximiliano,Alexander,Male,40,Yes,0,Graduate,No,3013,3033,95,95000,300,,Urban,Y,33165,Miami,25.73,-80.36
+LP002180,Miguel,Rivera,Male,35,No,0,Graduate,Yes,6822,0,141,141000,360,1,Rural,Y,33166,Miami,25.82,-80.3
+LP002181,Modesto,Parker,Male,41,No,0,Not Graduate,No,6216,0,133,133000,360,1,Rural,N,33167,Miami,25.88,-80.24
+LP002187,Natividad,Alexander,Male,23,No,0,Graduate,No,2500,0,96,96000,480,1,Semiurban,N,33168,Miami,25.89,-80.21
+LP002188,Nicolas,Rivera,Male,26,No,0,Graduate,No,5124,0,124,124000,,0,Rural,N,33169,Miami,25.94,-80.21
+LP002190,Norberto,Parker,Male,48,Yes,1,Graduate,No,6325,0,175,175000,360,1,Semiurban,Y,33170,Miami,25.56,-80.46
+LP002191,Octavio,Alexander,Male,35,Yes,0,Graduate,No,19730,5266,570,570000,360,1,Rural,N,33172,Miami,25.79,-80.36
+LP002197,Osvaldo,Parker,Male,45,Yes,2,Graduate,No,5185,0,155,155000,360,1,Semiurban,Y,33174,Miami,25.76,-80.36
+LP002201,Pablo,Alexander,Male,46,Yes,2,Graduate,Yes,9323,7873,380,380000,300,1,Rural,Y,33175,Miami,25.73,-80.41
+LP002205,Panfilo,Rivera,Male,26,No,1,Graduate,No,3062,1987,111,111000,180,0,Urban,N,33176,Miami,25.66,-80.36
+LP002211,Pedro,Alexander,Male,35,Yes,0,Graduate,No,4817,923,120,120000,180,1,Urban,Y,33178,Miami,25.85,-80.41
+LP002219,Rafael,Rivera,Male,25,Yes,3+,Graduate,No,8750,4996,130,130000,360,1,Rural,Y,33179,Miami,25.96,-80.18
+LP002223,Ramon,Parker,Male,27,Yes,0,Graduate,No,4310,0,130,130000,360,,Semiurban,Y,33180,Miami,25.96,-80.14
+LP002224,Raul,Alexander,Male,49,No,0,Graduate,No,3069,0,71,71000,480,1,Urban,N,33181,Miami,25.9,-80.15
+LP002225,Ricardo,Rivera,Male,25,Yes,2,Graduate,No,5391,0,130,130000,360,1,Urban,Y,33182,Miami,25.78,-80.41
+LP002226,Albert,Stewart,Male,37,Yes,0,Graduate,,3333,2500,128,128000,360,1,Semiurban,Y,33183,Miami,25.7,-80.4
+LP002229,Alfonso,Griffin,Male,18,No,0,Graduate,No,5941,4232,296,296000,360,1,Semiurban,Y,33184,Miami,25.76,-80.41
+LP002234,Alonso,Jennings,Male,50,No,0,Graduate,Yes,7167,0,128,128000,360,1,Urban,Y,33186,Miami,25.65,-80.41
+LP002236,Alton,Fuller,Male,29,Yes,2,Graduate,No,4566,0,100,100000,360,1,Urban,N,33187,Miami,25.6,-80.51
+LP002237,Amos,Baldwin,Male,21,No,1,Graduate,,3667,0,113,113000,180,1,Urban,Y,33189,Miami,25.57,-80.34
+LP002239,Anderson,Stephens,Male,25,No,0,Not Graduate,No,2346,1600,132,132000,360,1,Semiurban,Y,33190,Miami,25.56,-80.35
+LP002243,Andres,Riley,Male,38,Yes,0,Not Graduate,No,3010,3136,,0,360,0,Urban,N,33193,Miami,25.7,-80.47
+LP002244,Angelo,Lloyd,Male,23,Yes,0,Graduate,No,2333,2417,136,136000,360,1,Urban,Y,33194,Miami,25.71,-80.58
+LP002250,Archie,Duncan,Male,46,Yes,0,Graduate,No,5488,0,125,125000,360,1,Rural,Y,33196,Miami,25.65,-80.49
+LP002255,Arnold,Butler,Male,19,No,3+,Graduate,No,9167,0,185,185000,360,1,Rural,Y,33101,Miami,25.78,-80.2
+LP002262,Ashton,Foster,Male,40,Yes,3+,Graduate,No,9504,0,275,275000,360,1,Rural,Y,33109,Miami Beach,25.76,-80.14
+LP002263,Auguste,Elliott,Male,43,Yes,0,Graduate,No,2583,2115,120,120000,360,,Urban,Y,33139,Miami Beach,25.78,-80.15
+LP002265,Avery,Black,Male,48,Yes,2,Not Graduate,No,1993,1625,113,113000,180,1,Semiurban,Y,33140,Miami Beach,25.82,-80.13
+LP002266,Barrett,King,Male,51,Yes,2,Graduate,No,3100,1400,113,113000,360,1,Urban,Y,33141,Miami Beach,25.85,-80.14
+LP002272,Barton,Hayes,Male,32,Yes,2,Graduate,No,3276,484,135,135000,360,,Semiurban,Y,33154,Miami Beach,25.88,-80.13
+LP002281,Bennett,Mitchell,Male,50,Yes,0,Graduate,No,3033,1459,95,95000,360,1,Urban,Y,33160,North Miami Beach,25.93,-80.14
+LP002284,Bernard,Warren,Male,51,No,0,Not Graduate,No,3902,1666,109,109000,360,1,Rural,Y,33054,Opa Locka,25.91,-80.27
+LP002288,Blaine,Lambert,Male,25,Yes,2,Not Graduate,No,2889,0,45,45000,180,0,Urban,N,33010,Hialeah,25.83,-80.28
+LP002296,Boyd,Osborne,Male,50,No,0,Not Graduate,No,2755,0,65,65000,300,1,Rural,N,33012,Hialeah,25.86,-80.29
+LP002297,Bradley,Fleming,Male,38,No,0,Graduate,No,2500,20000,103,103000,360,1,Semiurban,Y,33013,Hialeah,25.86,-80.27
+LP002308,Bryce,Fleming,Male,34,Yes,0,Not Graduate,No,2167,2400,115,115000,360,1,Urban,Y,33018,Hialeah,25.92,-80.38
+LP002315,Caleb,Gross,Male,41,Yes,1,Graduate,No,8300,0,152,152000,300,0,Semiurban,N,33031,Homestead,25.52,-80.5
+LP002317,Carlton,Mann,Male,38,Yes,3+,Graduate,No,81000,0,360,360000,360,0,Rural,N,33032,Homestead,25.53,-80.39
+LP002319,Chandler,Byrd,Male,37,Yes,0,Graduate,,6256,0,160,160000,360,,Urban,Y,33034,Homestead,25.27,-80.63
+LP002328,Chandler,Ingram,Male,47,Yes,0,Not Graduate,No,6096,0,218,218000,360,0,Rural,N,33035,Homestead,25.46,-80.45
+LP002332,Chance,Ross,Male,44,Yes,0,Not Graduate,No,2253,2033,110,110000,360,1,Rural,Y,33039,Homestead,25.5,-80.4
+LP002342,Conrad,Bishop,Male,37,Yes,2,Graduate,Yes,1600,20000,239,239000,360,1,Urban,N,33126,Miami,25.78,-80.3
+LP002345,Cornell,Ford,Male,51,Yes,0,Graduate,No,1025,2773,112,112000,360,1,Rural,Y,33127,Miami,25.81,-80.21
+LP002347,Craig,Gregory,Male,22,Yes,0,Graduate,No,3246,1417,138,138000,360,1,Semiurban,Y,33128,Miami,25.78,-80.2
+LP002348,Curtis,Hogan,Male,35,Yes,0,Graduate,No,5829,0,138,138000,360,1,Rural,Y,33129,Miami,25.75,-80.19
+LP002361,Dane,Goodman,Male,44,Yes,0,Graduate,No,1820,1719,100,100000,360,1,Urban,Y,33131,Miami,25.77,-80.18
+LP002362,Darrell,Cruz,Male,38,Yes,1,Graduate,No,7250,1667,110,110000,,0,Urban,N,33132,Miami,25.78,-80.18
+LP002364,Darnell,Abbott,Male,27,Yes,0,Graduate,No,14880,0,96,96000,360,1,Semiurban,Y,33133,Miami,25.73,-80.24
+LP002366,Darryl,Morton,Male,25,Yes,0,Graduate,No,2666,4300,121,121000,360,1,Rural,Y,33134,Miami,25.75,-80.27
+LP002368,Dean,Dawson,Male,22,Yes,2,Graduate,No,5935,0,133,133000,360,1,Semiurban,Y,33136,Miami,25.79,-80.2
+LP002369,Dennis,Farmer,Male,38,Yes,0,Graduate,No,2920,16.12000084,87,87000,360,1,Rural,Y,33137,Miami,25.82,-80.17
+LP002370,Derek,Hale,Male,36,No,0,Not Graduate,No,2717,0,60,60000,180,1,Urban,Y,33138,Miami,25.85,-80.18
+LP002379,Dexter,Harmon,Male,29,No,0,Graduate,No,6500,0,105,105000,360,0,Rural,N,33143,Miami,25.7,-80.3
+LP002386,Dominic,Little,Male,36,No,0,Graduate,,12876,0,405,405000,360,1,Semiurban,Y,33144,Miami,25.76,-80.31
+LP002387,Donovan,Snyder,Male,23,Yes,0,Graduate,No,2425,2340,143,143000,360,1,Semiurban,Y,33145,Miami,25.75,-80.23
+LP002390,Dorian,Reese,Male,39,No,0,Graduate,No,3750,0,100,100000,360,1,Urban,Y,33146,Miami,25.72,-80.27
+LP002398,Dylan,Malone,Male,40,No,0,Graduate,No,1926,1851,50,50000,360,1,Semiurban,Y,33150,Miami,25.85,-80.21
+LP002401,Elias,McLaughlin,Male,30,Yes,0,Graduate,No,2213,1125,,0,360,1,Urban,Y,33155,Miami,25.74,-80.31
+LP002403,Elliott,Vaughan,Male,34,No,0,Graduate,Yes,10416,0,187,187000,360,0,Urban,N,33156,Miami,25.67,-80.3
+LP002408,Emanuel,Swanson,Male,44,No,0,Graduate,No,3660,5064,187,187000,360,1,Semiurban,Y,33158,Miami,25.64,-80.31
+LP002409,Emmett,McBride,Male,19,Yes,0,Graduate,No,7901,1833,180,180000,360,1,Rural,Y,33161,Miami,25.89,-80.18
+LP002418,Enrique,Avery,Male,48,No,3+,Not Graduate,No,4707,1993,148,148000,360,1,Semiurban,Y,33162,Miami,25.93,-80.18
+LP002422,Ervin,Alvarado,Male,33,No,1,Graduate,No,37719,0,152,152000,360,1,Semiurban,Y,33165,Miami,25.73,-80.36
+LP002424,Ethan,Kirby,Male,45,Yes,0,Graduate,No,7333,8333,175,175000,300,,Rural,Y,33166,Miami,25.82,-80.3
+LP002429,Everett,Curry,Male,20,Yes,1,Graduate,Yes,3466,1210,130,130000,360,1,Rural,Y,33167,Miami,25.88,-80.24
+LP002434,Felix,Lynch,Male,47,Yes,2,Not Graduate,No,4652,0,110,110000,360,1,Rural,Y,33168,Miami,25.89,-80.21
+LP002435,Fernando,McCarthy,Male,36,Yes,0,Graduate,,3539,1376,55,55000,360,1,Rural,N,33169,Miami,25.94,-80.21
+LP002443,Fletcher,Pope,Male,19,Yes,2,Graduate,No,3340,1710,150,150000,360,0,Rural,N,33170,Miami,25.56,-80.46
+LP002444,Franklin,Pratt,Male,28,No,1,Not Graduate,Yes,2769,1542,190,190000,360,,Semiurban,N,33172,Miami,25.79,-80.36
+LP002446,Freddie,Drake,Male,20,Yes,2,Not Graduate,No,2309,1255,125,125000,360,0,Rural,N,33173,Miami,25.7,-80.36
+LP002447,Gabriel,James,Male,33,Yes,2,Not Graduate,No,1958,1456,60,60000,300,,Urban,Y,33174,Miami,25.76,-80.36
+LP002448,Garrett,Shaw,Male,27,Yes,0,Graduate,No,3948,1733,149,149000,360,0,Rural,N,33175,Miami,25.73,-80.41
+LP002449,Glenn,Simmons,Male,34,Yes,0,Graduate,No,2483,2466,90,90000,180,0,Rural,Y,33176,Miami,25.66,-80.36
+LP002453,Gordon,Dawson,Male,41,No,0,Graduate,Yes,7085,0,84,84000,360,1,Semiurban,Y,33177,Miami,25.6,-80.4
+LP002455,Grant,Tyler,Male,33,Yes,2,Graduate,No,3859,0,96,96000,360,1,Semiurban,Y,33178,Miami,25.85,-80.41
+LP002459,Grayson,Spencer,Male,46,Yes,0,Graduate,No,4301,0,118,118000,360,1,Urban,Y,33179,Miami,25.96,-80.18
+LP002467,Grover,Morton,Male,35,Yes,0,Graduate,No,3708,2569,173,173000,360,1,Urban,N,33180,Miami,25.96,-80.14
+LP002472,Guy,Quinn,Male,26,No,2,Graduate,No,4354,0,136,136000,360,1,Rural,Y,33181,Miami,25.9,-80.15
+LP002473,Hank,Wallace,Male,43,Yes,0,Graduate,No,8334,0,160,160000,360,1,Semiurban,N,33182,Miami,25.78,-80.41
+LP002478,Harold,Marshall,,37,Yes,0,Graduate,Yes,2083,4083,160,160000,360,,Semiurban,Y,33183,Miami,25.7,-80.4
+LP002484,Harvey,Montgomery,Male,28,Yes,3+,Graduate,No,7740,0,128,128000,180,1,Urban,Y,33184,Miami,25.76,-80.41
+LP002487,Hayden,Collins,Male,34,Yes,0,Graduate,No,3015,2188,153,153000,360,1,Rural,Y,33185,Miami,25.73,-80.45
+LP002493,Henry,Gilbert,Male,39,No,0,Graduate,No,4166,0,98,98000,360,0,Semiurban,N,33187,Miami,25.6,-80.51
+LP002494,Herbert,Ryan,Male,26,No,0,Graduate,No,6000,0,140,140000,360,1,Rural,Y,33189,Miami,25.57,-80.34
+LP002500,Horace,Blake,Male,52,Yes,3+,Not Graduate,No,2947,1664,70,70000,180,0,Urban,N,33190,Miami,25.56,-80.35
+LP002501,Howard,Leonard,,23,Yes,0,Graduate,No,16692,0,110,110000,360,1,Semiurban,Y,33193,Miami,25.7,-80.47
+LP002505,Irving,Francis,Male,50,Yes,0,Graduate,No,4333,2451,110,110000,360,1,Urban,N,33196,Miami,25.65,-80.49
+LP002515,Ivan,Brooks,Male,40,Yes,1,Graduate,Yes,3450,2079,162,162000,360,1,Semiurban,Y,33101,Miami,25.78,-80.2
+LP002517,Jack,Stone,Male,25,Yes,1,Not Graduate,No,2653,1500,113,113000,180,0,Rural,N,33109,Miami Beach,25.76,-80.14
+LP002519,Jackson,Riley,Male,25,Yes,3+,Graduate,No,4691,0,100,100000,360,1,Semiurban,Y,33139,Miami Beach,25.78,-80.15
+LP002524,Jared,McCoy,Male,30,No,2,Graduate,No,5532,4648,162,162000,360,1,Rural,Y,33141,Miami Beach,25.85,-80.14
+LP002527,Jasper,Russell,Male,40,Yes,2,Graduate,Yes,16525,1014,150,150000,360,1,Rural,Y,33154,Miami Beach,25.88,-80.13
+LP002529,Jay,Riley,Male,20,Yes,2,Graduate,No,6700,1750,230,230000,300,1,Semiurban,Y,33056,Miami Gardens,25.93,-80.26
+LP002530,Jeffrey,Reynolds,,20,Yes,2,Graduate,No,2873,1872,132,132000,360,0,Semiurban,N,33160,North Miami Beach,25.93,-80.14
+LP002531,Jeremiah,Walton,Male,42,Yes,1,Graduate,Yes,16667,2250,86,86000,360,1,Semiurban,Y,33054,Opa Locka,25.91,-80.27
+LP002533,Jerome,Barrett,Male,30,Yes,2,Graduate,No,2947,1603,,0,360,1,Urban,N,33055,Opa Locka,25.95,-80.28
+LP002536,Jefferson,Klein,Male,23,Yes,3+,Not Graduate,No,3095,0,113,113000,360,1,Rural,Y,33012,Hialeah,25.86,-80.29
+LP002537,Jesse,Fischer,Male,35,Yes,0,Graduate,No,2083,3150,128,128000,360,1,Semiurban,Y,33013,Hialeah,25.86,-80.27
+LP002541,Joel,Barnes,Male,32,Yes,0,Graduate,No,10833,0,234,234000,360,1,Semiurban,Y,33014,Hialeah,25.9,-80.3
+LP002543,Jonas,Monroe,Male,21,Yes,2,Graduate,No,8333,0,246,246000,360,1,Semiurban,Y,33015,Hialeah,25.94,-80.32
+LP002544,Jonathan,Barrett,Male,36,Yes,1,Not Graduate,No,1958,2436,131,131000,360,1,Rural,Y,33016,Hialeah,25.9,-80.33
+LP002545,Jordan,Hale,Male,29,No,2,Graduate,No,3547,0,80,80000,360,0,Rural,N,33018,Hialeah,25.92,-80.38
+LP002547,Jorge,Luna,Male,20,Yes,1,Graduate,No,18333,0,500,500000,360,1,Urban,N,33030,Homestead,25.49,-80.51
+LP002555,Josiah,Parks,Male,30,Yes,2,Graduate,Yes,4583,2083,160,160000,360,1,Semiurban,Y,33031,Homestead,25.52,-80.5
+LP002556,Juan,Jimenez,Male,18,No,0,Graduate,No,2435,0,75,75000,360,1,Urban,N,33032,Homestead,25.53,-80.39
+LP002560,Julian,Soto,Male,41,No,0,Not Graduate,No,2699,2785,96,96000,360,,Semiurban,Y,33033,Homestead,25.48,-80.41
+LP002562,Julius,Barton,Male,51,Yes,1,Not Graduate,No,5333,1131,186,186000,360,,Urban,Y,33034,Homestead,25.27,-80.63
+LP002571,Karl,Patrick,Male,20,No,0,Not Graduate,No,3691,0,110,110000,360,1,Rural,Y,33035,Homestead,25.46,-80.45
+LP002585,Kelvin,Clarke,Male,34,Yes,0,Graduate,No,3597,2157,119,119000,360,0,Rural,N,33149,Key Biscayne,25.68,-80.16
+LP002587,Kenneth,Daniels,Male,21,Yes,0,Not Graduate,No,2600,1700,107,107000,360,1,Rural,Y,33125,Miami,25.78,-80.24
+LP002588,Kerry,Floyd,Male,46,Yes,0,Graduate,No,4625,2857,111,111000,12,,Urban,Y,33126,Miami,25.78,-80.3
+LP002600,Kirk,Bradley,Male,35,Yes,1,Graduate,Yes,2895,0,95,95000,360,1,Semiurban,Y,33127,Miami,25.81,-80.21
+LP002602,Kyle,Greene,Male,26,No,0,Graduate,No,6283,4416,209,209000,360,0,Rural,N,33128,Miami,25.78,-80.2
+LP002615,Leo,Jensen,Male,48,Yes,2,Graduate,No,4865,5624,208,208000,360,1,Semiurban,Y,33131,Miami,25.77,-80.18
+LP002618,Leonard,Franklin,Male,21,Yes,1,Not Graduate,No,4050,5302,138,138000,360,,Rural,N,33132,Miami,25.78,-80.18
+LP002619,Lewis,Newton,Male,35,Yes,0,Not Graduate,No,3814,1483,124,124000,300,1,Semiurban,Y,33133,Miami,25.73,-80.24
+LP002622,Lincoln,Hayes,Male,45,Yes,2,Graduate,No,3510,4416,243,243000,360,1,Rural,Y,33134,Miami,25.75,-80.27
+LP002624,Lloyd,Wheeler,Male,46,Yes,0,Graduate,No,20833,6667,480,480000,360,,Urban,Y,33135,Miami,25.77,-80.24
+LP002625,Logan,Chambers,,40,No,0,Graduate,No,3583,0,96,96000,360,1,Urban,N,33136,Miami,25.79,-80.2
+LP002626,Lorenzo,Vasquez,Male,52,Yes,0,Graduate,Yes,2479,3013,188,188000,360,1,Urban,Y,33137,Miami,25.82,-80.17
+LP002637,Lucas,Terry,Male,34,No,0,Not Graduate,No,3598,1287,100,100000,360,1,Rural,N,33142,Miami,25.81,-80.24
+LP002640,Malcolm,Morris,Male,23,Yes,1,Graduate,No,6065,2004,250,250000,360,1,Semiurban,Y,33143,Miami,25.7,-80.3
+LP002643,Manuel,Silva,Male,45,Yes,2,Graduate,No,3283,2035,148,148000,360,1,Urban,Y,33144,Miami,25.76,-80.31
+LP002648,Marcus,Edwards,Male,23,Yes,0,Graduate,No,2130,6666,70,70000,180,1,Semiurban,N,33145,Miami,25.75,-80.23
+LP002652,Mario,Reyes,Male,52,No,0,Graduate,No,5815,3666,311,311000,360,1,Rural,N,33146,Miami,25.72,-80.27
+LP002659,Marshall,Owens,Male,23,Yes,3+,Graduate,No,3466,3428,150,150000,360,1,Rural,Y,33147,Miami,25.85,-80.24
+LP002682,Marvin,Paul,Male,30,Yes,,Not Graduate,No,3074,1800,123,123000,360,0,Semiurban,N,33155,Miami,25.74,-80.31
+LP002683,Mason,Rivera,Male,22,No,0,Graduate,No,4683,1915,185,185000,360,1,Semiurban,N,33156,Miami,25.67,-80.3
+LP002689,Maxwell,Porter,Male,34,Yes,2,Not Graduate,No,2192,1742,45,45000,360,1,Semiurban,Y,33158,Miami,25.64,-80.31
+LP002690,Melvin,Hoffman,Male,40,No,0,Graduate,No,2500,0,55,55000,360,1,Semiurban,Y,33161,Miami,25.89,-80.18
+LP002692,Michael,Davidson,Male,39,Yes,3+,Graduate,Yes,5677,1424,100,100000,360,1,Rural,Y,33162,Miami,25.93,-80.18
+LP002693,Miguel,Vargas,Male,29,Yes,2,Graduate,Yes,7948,7166,480,480000,360,1,Rural,Y,33165,Miami,25.73,-80.36
+LP002697,Milton,Collins,Male,46,No,0,Graduate,No,4680,2087,,0,360,1,Semiurban,N,33166,Miami,25.82,-80.3
+LP002699,Mitchell,West,Male,25,Yes,2,Graduate,Yes,17500,0,400,400000,360,1,Rural,Y,33167,Miami,25.88,-80.24
+LP002705,Morgan,Bell,Male,23,Yes,0,Graduate,No,3775,0,110,110000,360,1,Semiurban,Y,33168,Miami,25.89,-80.21
+LP002706,Nathaniel,Bennett,Male,39,Yes,1,Not Graduate,No,5285,1430,161,161000,360,0,Semiurban,Y,33169,Miami,25.94,-80.21
+LP002714,Neil,Gilbert,Male,23,No,1,Not Graduate,No,2679,1302,94,94000,360,1,Semiurban,Y,33170,Miami,25.56,-80.46
+LP002716,Nelson,Hernandez,Male,27,No,0,Not Graduate,No,6783,0,130,130000,360,1,Semiurban,Y,33172,Miami,25.79,-80.36
+LP002717,Nicholas,Cruz,Male,51,Yes,0,Graduate,No,1025,5500,216,216000,360,,Rural,Y,33173,Miami,25.7,-80.36
+LP002720,Noel,Bishop,Male,51,Yes,3+,Graduate,No,4281,0,100,100000,360,1,Urban,Y,33174,Miami,25.76,-80.36
+LP002723,Norman,Hughes,Male,40,No,2,Graduate,No,3588,0,110,110000,360,0,Rural,N,33175,Miami,25.73,-80.41
+LP002729,Oliver,Lawrence,Male,35,No,1,Graduate,No,11250,0,196,196000,360,,Semiurban,N,33176,Miami,25.66,-80.36
+LP002732,Orlando,Tucker,Male,38,No,0,Not Graduate,,2550,2042,126,126000,360,1,Rural,Y,33178,Miami,25.85,-80.41
+LP002734,Oscar,Beck,Male,50,Yes,0,Graduate,No,6133,3906,324,324000,360,1,Urban,Y,33179,Miami,25.96,-80.18
+LP002738,Owen,Butler,Male,25,No,2,Graduate,No,3617,0,107,107000,360,1,Semiurban,Y,33180,Miami,25.96,-80.14
+LP002739,Pablo,Andrews,Male,25,Yes,0,Not Graduate,No,2917,536,66,66000,360,1,Rural,N,33181,Miami,25.9,-80.15
+LP002740,Patrick,Simmons,Male,23,Yes,3+,Graduate,No,6417,0,157,157000,180,1,Rural,Y,33182,Miami,25.78,-80.41
+LP002755,Perry,Jordan,Male,46,Yes,1,Not Graduate,No,2239,2524,128,128000,360,1,Urban,Y,33186,Miami,25.65,-80.41
+LP002767,Philip,Russell,Male,29,Yes,0,Graduate,No,2768,1950,155,155000,360,1,Rural,Y,33189,Miami,25.57,-80.34
+LP002768,Pierre,Ward,Male,47,No,0,Not Graduate,No,3358,0,80,80000,36,1,Semiurban,N,33190,Miami,25.56,-80.35
+LP002772,Preston,Hunter,Male,40,No,0,Graduate,No,2526,1783,145,145000,360,1,Rural,Y,33193,Miami,25.7,-80.47
+LP002777,Rafael,Morgan,Male,47,Yes,0,Graduate,No,2785,2016,110,110000,360,1,Rural,Y,33196,Miami,25.65,-80.49
+LP002778,Ramon,Garcia,Male,21,Yes,2,Graduate,Yes,6633,0,,0,360,0,Rural,N,33101,Miami,25.78,-80.2
+LP002784,Randall,Fields,Male,44,Yes,1,Not Graduate,No,2492,2375,,0,360,1,Rural,Y,33109,Miami Beach,25.76,-80.14
+LP002785,Raymond,Evans,Male,33,Yes,1,Graduate,No,3333,3250,158,158000,360,1,Urban,Y,33139,Miami Beach,25.78,-80.15
+LP002788,Reginald,Armstrong,Male,42,Yes,0,Not Graduate,No,2454,2333,181,181000,360,0,Urban,N,33140,Miami Beach,25.82,-80.13
+LP002789,Ricardo,Mendez,Male,47,Yes,0,Graduate,No,3593,4266,132,132000,180,0,Rural,N,33141,Miami Beach,25.85,-80.14
+LP002792,Richard,Wallace,Male,52,Yes,1,Graduate,No,5468,1032,26,26000,360,1,Semiurban,Y,33154,Miami Beach,25.88,-80.13
+LP002795,Roberto,Ruiz,Male,43,Yes,3+,Graduate,Yes,10139,0,260,260000,360,1,Semiurban,Y,33160,North Miami Beach,25.93,-80.14
+LP002798,Rodney,Coleman,Male,50,Yes,0,Graduate,No,3887,2669,162,162000,360,1,Semiurban,Y,33054,Opa Locka,25.91,-80.27
+LP002807,Roland,Stone,Male,34,Yes,2,Not Graduate,No,3675,242,108,108000,360,1,Semiurban,Y,33010,Hialeah,25.83,-80.28
+LP002820,Rory,Maxwell,Male,43,Yes,0,Graduate,No,5923,2054,211,211000,360,1,Rural,Y,33013,Hialeah,25.86,-80.27
+LP002821,Ross,Bennett,Male,35,No,0,Not Graduate,Yes,5800,0,132,132000,360,1,Semiurban,Y,33014,Hialeah,25.9,-80.3
+LP002832,Ruben,Knight,Male,41,Yes,2,Graduate,No,8799,0,258,258000,360,0,Urban,N,33015,Hialeah,25.94,-80.32
+LP002833,Russell,Davis,Male,42,Yes,0,Not Graduate,No,4467,0,120,120000,360,,Rural,Y,33016,Hialeah,25.9,-80.33
+LP002836,Ryan,Baker,Male,46,No,0,Graduate,No,3333,0,70,70000,360,1,Urban,Y,33018,Hialeah,25.92,-80.38
+LP002837,Samuel,Morales,Male,41,Yes,3+,Graduate,No,3400,2500,123,123000,360,0,Rural,N,33030,Homestead,25.49,-80.51
+LP002841,Saul,Martinez,Male,44,Yes,0,Graduate,No,3166,2064,104,104000,360,0,Urban,N,33032,Homestead,25.53,-80.39
+LP002842,Scott,Turner,Male,32,Yes,1,Graduate,No,3417,1750,186,186000,360,1,Urban,Y,33033,Homestead,25.48,-80.41
+LP002847,Sean,Blake,Male,30,Yes,,Graduate,No,5116,1451,165,165000,360,0,Urban,N,33034,Homestead,25.27,-80.63
+LP002855,Sergio,Diaz,Male,28,Yes,2,Graduate,No,16666,0,275,275000,360,1,Urban,Y,33035,Homestead,25.46,-80.45
+LP002862,Sheldon,Lawson,Male,43,Yes,2,Not Graduate,No,6125,1625,187,187000,480,1,Semiurban,N,33039,Homestead,25.5,-80.4
+LP002863,Sherman,Ford,Male,45,Yes,3+,Graduate,No,6406,0,150,150000,360,1,Semiurban,N,33149,Key Biscayne,25.68,-80.16
+LP002868,Sidney,Harris,Male,21,Yes,2,Graduate,No,3159,461,108,108000,84,1,Urban,Y,33122,Miami,25.81,-80.32
+LP002872,Silas,Chavez,,19,Yes,0,Graduate,No,3087,2210,136,136000,360,0,Semiurban,N,33125,Miami,25.78,-80.24
+LP002874,Simon,Bell,Male,47,No,0,Graduate,No,3229,2739,110,110000,360,1,Urban,Y,33126,Miami,25.78,-80.3
+LP002877,Stanley,Dunn,Male,30,Yes,1,Graduate,No,1782,2232,107,107000,360,1,Rural,Y,33127,Miami,25.81,-80.21
+LP002888,Stefan,Lambert,Male,25,No,0,Graduate,,3182,2917,161,161000,360,1,Urban,Y,33128,Miami,25.78,-80.2
+LP002892,Stephen,Norman,Male,18,Yes,2,Graduate,No,6540,0,205,205000,360,1,Semiurban,Y,33129,Miami,25.75,-80.19
+LP002893,Sterling,Fox,Male,45,No,0,Graduate,No,1836,33837,90,90000,360,1,Urban,N,33130,Miami,25.77,-80.2
+LP002898,Stuart,Flores,Male,43,Yes,1,Graduate,No,1880,0,61,61000,360,,Rural,N,33132,Miami,25.78,-80.18
+LP002911,Terence,Gonzalez,Male,35,Yes,1,Graduate,No,2787,1917,146,146000,360,0,Rural,N,33133,Miami,25.73,-80.24
+LP002912,Terrence,Harper,Male,43,Yes,1,Graduate,No,4283,3000,172,172000,84,1,Rural,N,33134,Miami,25.75,-80.27
+LP002916,Theodore,Bennett,Male,38,Yes,0,Graduate,No,2297,1522,104,104000,360,1,Urban,Y,33135,Miami,25.77,-80.24
+LP002925,Timothy,Clark,,35,No,0,Graduate,No,4750,0,94,94000,360,1,Semiurban,Y,33137,Miami,25.82,-80.17
+LP002926,Titus,Johnson,Male,25,Yes,2,Graduate,Yes,2726,0,106,106000,360,0,Semiurban,N,33138,Miami,25.85,-80.18
+LP002928,Toby,Hamilton,Male,18,Yes,0,Graduate,No,3000,3416,56,56000,180,1,Semiurban,Y,33142,Miami,25.81,-80.24
+LP002931,Todd,Bryant,Male,26,Yes,2,Graduate,Yes,6000,0,205,205000,240,1,Semiurban,N,33143,Miami,25.7,-80.3
+LP002933,Tom,Reeves,,28,No,3+,Graduate,Yes,9357,0,292,292000,360,1,Semiurban,Y,33144,Miami,25.76,-80.31
+LP002936,Tony,Perry,Male,26,Yes,0,Graduate,No,3859,3300,142,142000,180,1,Rural,Y,33145,Miami,25.75,-80.23
+LP002938,Travis,Anderson,Male,40,Yes,0,Graduate,Yes,16120,0,260,260000,360,1,Urban,Y,33146,Miami,25.72,-80.27
+LP002940,Trent,Hayes,Male,52,No,0,Not Graduate,No,3833,0,110,110000,360,1,Rural,Y,33147,Miami,25.85,-80.24
+LP002941,Trevor,Spencer,Male,33,Yes,2,Not Graduate,Yes,6383,1000,187,187000,360,1,Rural,N,33150,Miami,25.85,-80.21
+LP002943,Tristan,James,Male,36,No,,Graduate,No,2987,0,88,88000,360,0,Semiurban,N,33155,Miami,25.74,-80.31
+LP002945,Troy,Evans,Male,33,Yes,0,Graduate,Yes,9963,0,180,180000,360,1,Rural,Y,33156,Miami,25.67,-80.3
+LP002948,Tyler,Brown,Male,46,Yes,2,Graduate,No,5780,0,192,192000,360,1,Urban,Y,33157,Miami,25.61,-80.34
+LP002950,Ulises,Morales,Male,41,Yes,0,Not Graduate,,2894,2792,155,155000,360,1,Rural,Y,33161,Miami,25.89,-80.18
+LP002953,Ulysses,Castro,Male,20,Yes,3+,Graduate,No,5703,0,128,128000,360,1,Urban,Y,33162,Miami,25.93,-80.18
+LP002958,Valentino,Cruz,Male,34,No,0,Graduate,No,3676,4301,172,172000,360,1,Rural,Y,33165,Miami,25.73,-80.36
+LP002960,Vernon,Hughes,Male,33,Yes,0,Not Graduate,No,2400,3800,,0,180,1,Urban,N,33167,Miami,25.88,-80.24
+LP002961,Victor,Rodriguez,Male,32,Yes,1,Graduate,No,3400,2500,173,173000,360,1,Semiurban,Y,33168,Miami,25.89,-80.21
+LP002964,Vincent,Foster,Male,41,Yes,2,Not Graduate,No,3987,1411,157,157000,360,1,Rural,Y,33169,Miami,25.94,-80.21
+LP002974,Virgil,Brooks,Male,34,Yes,0,Graduate,No,3232,1950,108,108000,360,1,Rural,Y,33170,Miami,25.56,-80.46
+LP002979,Wallace,Sanchez,Male,26,Yes,3+,Graduate,No,4106,0,40,40000,180,1,Rural,Y,33173,Miami,25.7,-80.36
+LP002983,Walter,Diaz,Male,25,Yes,1,Graduate,No,8072,240,253,253000,360,1,Urban,Y,33174,Miami,25.76,-80.36
+LP002984,Warren,Reed,Male,27,Yes,2,Graduate,No,7583,0,187,187000,360,1,Urban,Y,33175,Miami,25.73,-80.41
+LP001036,Abigail,Thompson,Female,50,No,0,Graduate,No,3510,0,76,76000,360,0,Urban,N,33126,Miami,25.78,-80.3
+LP001087,Adriana,Martinez,Female,20,No,2,Graduate,,3750,2083,120,120000,360,1,Semiurban,Y,33138,Miami,25.85,-80.18
+LP001112,Aileen,Johnson,Female,18,Yes,0,Graduate,No,3667,1459,144,144000,360,1,Semiurban,Y,33155,Miami,25.74,-80.31
+LP001137,Alicia,Miller,Female,32,No,0,Graduate,No,3410,0,88,88000,,1,Urban,Y,33167,Miami,25.88,-80.24
+LP001146,Allison,Lopez,Female,33,Yes,0,Graduate,No,2645,3440,120,120000,360,0,Urban,N,33170,Miami,25.56,-80.46
+LP001151,Amanda,Wilson,Female,48,No,0,Graduate,No,4000,2275,144,144000,360,1,Semiurban,Y,33172,Miami,25.79,-80.36
+LP001155,Amber,Taylor,Female,44,Yes,0,Not Graduate,No,1928,1644,100,100000,360,1,Semiurban,Y,33173,Miami,25.7,-80.36
+LP001157,Amelia,Brown,Female,28,No,0,Graduate,No,3086,0,120,120000,360,1,Semiurban,Y,33174,Miami,25.76,-80.36
+LP001164,Amy,Davis,Female,24,No,0,Graduate,No,4230,0,112,112000,360,1,Semiurban,N,33175,Miami,25.73,-80.41
+LP001186,Andrea,Gonzalez,Female,32,Yes,1,Graduate,Yes,11500,0,286,286000,360,0,Urban,N,33177,Miami,25.6,-80.4
+LP001222,Angela,Perez,Female,20,No,0,Graduate,No,4166,0,116,116000,360,0,Semiurban,N,33187,Miami,25.6,-80.51
+LP001241,Anna,Ramirez,Female,51,No,0,Graduate,No,4300,0,136,136000,360,0,Semiurban,N,33196,Miami,25.65,-80.49
+LP001265,Annabelle,Clark,Female,37,No,0,Graduate,No,3846,0,111,111000,360,1,Semiurban,Y,33010,Hialeah,25.83,-80.28
+LP001267,Anne,Rodriguez,Female,26,Yes,2,Graduate,No,1378,1881,167,167000,360,1,Urban,N,33013,Hialeah,25.86,-80.27
+LP001327,Aria,Hernandez,Female,33,Yes,0,Graduate,No,2484,2302,137,137000,360,1,Semiurban,Y,33125,Miami,25.78,-80.24
+LP001387,Ariana,Sanchez,Female,31,Yes,0,Graduate,,2929,2333,139,139000,360,1,Semiurban,Y,33143,Miami,25.7,-80.3
+LP001392,Audrey,Edwards,Female,44,No,1,Graduate,Yes,7451,0,,0,360,1,Semiurban,Y,33145,Miami,25.75,-80.23
+LP001404,Aurora,Torres,Female,30,Yes,0,Graduate,No,3167,2283,154,154000,360,1,Semiurban,Y,33150,Miami,25.85,-80.21
+LP001422,Ava,Robinson,Female,51,No,0,Graduate,No,10408,0,259,259000,360,1,Urban,Y,33157,Miami,25.61,-80.34
+LP001430,Barbara,White,Female,27,No,0,Graduate,No,4166,0,44,44000,360,1,Semiurban,Y,33161,Miami,25.89,-80.18
+LP001431,Beatrice,Allen,Female,51,No,0,Graduate,No,2137,8980,137,137000,360,0,Semiurban,Y,33162,Miami,25.93,-80.18
+LP001443,Bella,King,Female,44,No,0,Graduate,No,3692,0,93,93000,360,,Rural,Y,33167,Miami,25.88,-80.24
+LP001489,Bianca,Scott,Female,18,Yes,0,Graduate,No,4583,0,84,84000,360,1,Rural,N,33179,Miami,25.96,-80.18
+LP001514,Brenda,Hall,Female,39,Yes,0,Graduate,No,2330,4486,100,100000,360,1,Semiurban,Y,33189,Miami,25.57,-80.34
+LP001516,Brianna,Lewis,Female,20,Yes,2,Graduate,No,14866,0,70,70000,360,1,Urban,Y,33190,Miami,25.56,-80.35
+LP001519,Brittany,Young,Female,23,No,0,Graduate,No,10000,1666,225,225000,360,1,Rural,N,33194,Miami,25.71,-80.58
+LP001577,Brooke,Walker,Female,26,Yes,0,Graduate,No,4583,0,112,112000,360,1,Rural,N,33018,Hialeah,25.92,-80.38
+LP001639,Caitlin,Harris,Female,30,Yes,0,Graduate,No,3625,0,108,108000,360,1,Semiurban,Y,33133,Miami,25.73,-80.24
+LP001669,Camila,Nelson,Female,43,No,0,Not Graduate,No,1907,2365,120,120000,,1,Urban,Y,33155,Miami,25.74,-80.31
+LP001671,Carla,Carter,Female,20,Yes,0,Graduate,No,3416,2816,113,113000,360,,Semiurban,Y,33156,Miami,25.67,-80.3
+LP001692,Carmen,Mitchell,Female,31,No,0,Not Graduate,No,4408,0,120,120000,360,1,Semiurban,Y,33167,Miami,25.88,-80.24
+LP001693,Carolina,Roberts,Female,52,No,0,Graduate,No,3244,0,80,80000,360,1,Urban,Y,33168,Miami,25.89,-80.21
+LP001708,Carolyn,Phillips,Female,34,No,0,Graduate,No,10000,0,214,214000,360,1,Semiurban,N,33173,Miami,25.7,-80.36
+LP001734,Cassandra,Campbell,Female,29,Yes,2,Graduate,No,4283,2383,127,127000,360,,Semiurban,Y,33182,Miami,25.78,-80.41
+LP001776,Catherine,Parker,Female,39,No,0,Graduate,No,8333,0,280,280000,360,1,Semiurban,Y,33140,Miami Beach,25.82,-80.13
+LP001788,Cecilia,Evans,Female,37,No,0,Graduate,Yes,3463,0,122,122000,360,,Urban,Y,33160,North Miami Beach,25.93,-80.14
+LP001790,Celeste,Turner,Female,31,No,1,Graduate,No,3812,0,112,112000,360,1,Rural,Y,33054,Opa Locka,25.91,-80.27
+LP001836,Charlotte,Collins,Female,18,No,2,Graduate,No,3427,0,138,138000,360,1,Urban,N,33034,Homestead,25.27,-80.63
+LP001846,Chloe,Stewart,Female,48,No,3+,Graduate,No,3083,0,255,255000,360,1,Rural,Y,33122,Miami,25.81,-80.32
+LP001870,Christina,Sanchez,Female,25,No,1,Graduate,No,3481,0,155,155000,36,1,Semiurban,N,33131,Miami,25.77,-80.18
+LP001871,Christine,Morris,Female,19,No,0,Graduate,No,7200,0,120,120000,360,1,Rural,Y,33132,Miami,25.78,-80.18
+LP001883,Cindy,Rogers,Female,47,No,0,Graduate,,3418,0,135,135000,360,1,Rural,N,33137,Miami,25.82,-80.17
+LP001884,Clara,Reed,Female,50,No,1,Graduate,No,2876,1560,90,90000,360,1,Urban,Y,33138,Miami,25.85,-80.18
+LP001888,Clarissa,Cook,Female,26,No,0,Graduate,No,3237,0,30,30000,360,1,Urban,Y,33142,Miami,25.81,-80.24
+LP001908,Claudia,Morgan,Female,42,Yes,0,Not Graduate,No,4100,0,124,124000,360,,Rural,Y,33157,Miami,25.61,-80.34
+LP001917,Courtney,Bailey,Female,48,No,0,Graduate,No,1811,1666,54,54000,360,1,Urban,Y,33165,Miami,25.73,-80.36
+LP001925,Daisy,Rivera,Female,41,No,0,Graduate,Yes,2600,1717,99,99000,300,1,Semiurban,N,33168,Miami,25.89,-80.21
+LP001931,Dana,Cooper,Female,21,No,0,Graduate,No,4124,0,115,115000,360,1,Semiurban,Y,33170,Miami,25.56,-80.46
+LP001945,Daniela,Hayes,Female,25,No,,Graduate,No,5417,0,143,143000,480,0,Urban,N,33176,Miami,25.66,-80.36
+LP001954,Danielle,Butler,Female,28,Yes,1,Graduate,No,4666,0,135,135000,360,1,Urban,Y,33180,Miami,25.96,-80.14
+LP001955,Daphne,Bryant,Female,23,No,0,Graduate,No,5000,2541,151,151000,480,1,Rural,N,33181,Miami,25.9,-80.15
+LP001974,Darlene,Simmons,Female,39,No,0,Graduate,No,5000,0,132,132000,360,1,Rural,Y,33185,Miami,25.73,-80.45
+LP001993,Deborah,Foster,Female,22,No,0,Graduate,No,3762,1666,135,135000,360,1,Rural,Y,33190,Miami,25.56,-80.35
+LP001994,Delilah,Sanders,Female,37,No,0,Graduate,No,2400,1863,104,104000,360,0,Urban,N,33193,Miami,25.7,-80.47
+LP002002,Destiny,Gonzales,Female,49,No,0,Graduate,No,2917,0,84,84000,360,1,Semiurban,Y,33101,Miami,25.78,-80.2
+LP002006,Diana,Fisher,Female,29,No,0,Graduate,No,2507,0,56,56000,360,1,Rural,Y,33139,Miami Beach,25.78,-80.15
+LP002043,Dominique,Ellis,Female,49,No,1,Graduate,No,3541,0,112,112000,360,,Semiurban,Y,33054,Opa Locka,25.91,-80.27
+LP002055,Donna,Howard,Female,38,No,0,Graduate,No,3166,2985,132,132000,360,,Rural,Y,33014,Hialeah,25.9,-80.3
+LP002086,Doris,Hughes,Female,37,Yes,0,Graduate,No,4333,2451,110,110000,360,1,Urban,N,33031,Homestead,25.52,-80.5
+LP002087,Dorothy,Collins,Female,34,No,0,Graduate,No,2500,0,67,67000,360,1,Urban,Y,33032,Homestead,25.53,-80.39
+LP002113,Edith,Alexander,Female,50,No,3+,Not Graduate,No,1830,0,,0,360,0,Urban,N,33127,Miami,25.81,-80.21
+LP002114,Eleanor,Brooks,Female,42,No,0,Graduate,No,4160,0,71,71000,360,1,Semiurban,Y,33128,Miami,25.78,-80.2
+LP002116,Elena,Bennett,Female,41,No,0,Graduate,No,2378,0,46,46000,360,1,Rural,N,33130,Miami,25.77,-80.2
+LP002142,Elisa,Myers,Female,34,Yes,0,Graduate,Yes,5500,0,105,105000,360,0,Rural,N,33145,Miami,25.75,-80.23
+LP002143,Elizabeth,Long,Female,50,Yes,0,Graduate,No,2423,505,130,130000,360,1,Semiurban,Y,33146,Miami,25.72,-80.27
+LP002144,Ella,Patterson,Female,36,No,,Graduate,No,3813,0,116,116000,180,1,Urban,Y,33147,Miami,25.85,-80.24
+LP002161,Ellen,Franklin,Female,39,No,1,Graduate,No,4723,0,81,81000,360,1,Semiurban,N,33158,Miami,25.64,-80.31
+LP002194,Ellie,Ward,Female,31,No,0,Graduate,Yes,15759,0,55,55000,360,1,Semiurban,Y,33173,Miami,25.7,-80.36
+LP002209,Elvira,Hughes,Female,32,No,0,Graduate,,2764,1459,110,110000,360,1,Urban,Y,33177,Miami,25.6,-80.4
+LP002231,Emily,Foster,Female,45,No,0,Graduate,No,6000,0,156,156000,360,1,Urban,Y,33185,Miami,25.73,-80.45
+LP002277,Emma,Ortiz,Female,43,No,0,Graduate,No,3180,0,71,71000,360,0,Urban,N,33056,Miami Gardens,25.93,-80.26
+LP002287,Erica,Perry,Female,43,No,0,Graduate,No,1500,1800,103,103000,360,0,Semiurban,N,33055,Opa Locka,25.95,-80.28
+LP002300,Erin,Bryant,Female,21,No,0,Not Graduate,No,1963,0,53,53000,360,1,Semiurban,Y,33014,Hialeah,25.9,-80.3
+LP002301,Esmeralda,Reed,Female,44,No,0,Graduate,Yes,7441,0,194,194000,360,1,Rural,N,33015,Hialeah,25.94,-80.32
+LP002305,Esther,Watson,Female,27,No,0,Graduate,No,4547,0,115,115000,360,1,Semiurban,Y,33016,Hialeah,25.9,-80.33
+LP002314,Eva,Daniels,Female,22,No,0,Not Graduate,No,2213,0,66,66000,360,1,Rural,Y,33030,Homestead,25.49,-80.51
+LP002318,Evelyn,Edwards,Female,48,No,1,Not Graduate,Yes,3867,0,62,62000,360,1,Semiurban,N,33033,Homestead,25.48,-80.41
+LP002335,Faith,Flores,Female,48,Yes,0,Not Graduate,No,2149,3237,178,178000,360,0,Semiurban,N,33149,Key Biscayne,25.68,-80.16
+LP002337,Fiona,Gonzalez,Female,22,No,0,Graduate,No,2995,0,60,60000,360,1,Urban,Y,33122,Miami,25.81,-80.32
+LP002341,Francesca,Martinez,Female,48,No,1,Graduate,No,2600,0,160,160000,360,1,Urban,N,33125,Miami,25.78,-80.24
+LP002357,Gabriela,Diaz,Female,37,No,0,Not Graduate,No,2720,0,80,80000,,0,Urban,N,33130,Miami,25.77,-80.2
+LP002367,Gabrielle,Morris,Female,39,No,1,Not Graduate,No,4606,0,81,81000,360,1,Rural,N,33135,Miami,25.77,-80.24
+LP002377,Genesis,Rogers,Female,25,No,1,Graduate,Yes,8624,0,150,150000,360,1,Semiurban,Y,33142,Miami,25.81,-80.24
+LP002393,Georgia,Murphy,Female,34,,,Graduate,No,10047,0,,0,240,1,Semiurban,Y,33147,Miami,25.85,-80.24
+LP002407,Giselle,Powell,Female,35,Yes,0,Not Graduate,Yes,7142,0,138,138000,360,1,Rural,Y,33157,Miami,25.61,-80.34
+LP002489,Grace,Cox,Female,49,No,1,Not Graduate,,5191,0,132,132000,360,1,Semiurban,Y,33186,Miami,25.65,-80.41
+LP002502,Gracie,Ramos,Female,23,Yes,2,Not Graduate,,210,2917,98,98000,360,1,Semiurban,Y,33194,Miami,25.71,-80.58
+LP002522,Guadalupe,Rivera,Female,51,No,0,Graduate,Yes,2500,0,93,93000,360,,Urban,Y,33140,Miami Beach,25.82,-80.13
+LP002534,Hailey,Hayes,Female,26,No,0,Not Graduate,No,4350,0,154,154000,360,1,Rural,Y,33010,Hialeah,25.83,-80.28
+LP002582,Hannah,Hughes,Female,27,No,0,Not Graduate,Yes,17263,0,225,225000,360,1,Semiurban,Y,33039,Homestead,25.5,-80.4
+LP002586,Harper,Price,Female,34,Yes,1,Graduate,No,3326,913,105,105000,84,1,Semiurban,Y,33122,Miami,25.81,-80.32
+LP002603,Hayley,Bell,Female,21,No,0,Graduate,No,645,3683,113,113000,480,1,Rural,Y,33129,Miami,25.75,-80.19
+LP002606,Heather,Bryant,Female,29,No,0,Graduate,No,3159,0,100,100000,360,1,Semiurban,Y,33130,Miami,25.77,-80.2
+LP002634,Heidi,Knight,Female,35,No,1,Graduate,No,13262,0,40,40000,360,1,Urban,Y,33138,Miami,25.85,-80.18
+LP002670,Helen,Lee,Female,25,Yes,2,Graduate,No,2031,1632,113,113000,480,1,Semiurban,Y,33150,Miami,25.85,-80.21
+LP002684,Holly,Brooks,Female,26,No,0,Not Graduate,No,3400,0,95,95000,360,1,Rural,N,33157,Miami,25.61,-80.34
+LP002731,Irene,Walsh,Female,33,No,0,Not Graduate,Yes,18165,0,125,125000,360,1,Urban,Y,33177,Miami,25.6,-80.4
+LP002741,Iris,Gonzales,Female,31,Yes,1,Graduate,No,4608,2845,140,140000,180,1,Semiurban,Y,33183,Miami,25.7,-80.4
+LP002743,Isabella,Ruiz,Female,33,No,0,Graduate,No,2138,0,99,99000,360,0,Semiurban,N,33184,Miami,25.76,-80.41
+LP002753,Isabel,Rivera,Female,28,No,1,Graduate,,3652,0,95,95000,360,1,Semiurban,Y,33185,Miami,25.73,-80.45
+LP002757,Isla,Fisher,Female,28,Yes,0,Not Graduate,No,3017,663,102,102000,360,,Semiurban,Y,33187,Miami,25.6,-80.51
+LP002776,Ivy,Collins,Female,41,No,0,Graduate,No,5000,0,103,103000,360,0,Semiurban,N,33194,Miami,25.71,-80.58
+LP002794,Jacqueline,Rivera,Female,52,No,0,Graduate,No,2667,1625,84,84000,360,,Urban,Y,33056,Miami Gardens,25.93,-80.26
+LP002804,Jade,Wilson,Female,49,Yes,0,Graduate,No,4180,2306,182,182000,360,1,Semiurban,Y,33055,Opa Locka,25.95,-80.28
+LP002813,Jamie,Alexander,Female,18,Yes,1,Graduate,Yes,19484,0,600,600000,360,1,Semiurban,Y,33012,Hialeah,25.86,-80.29
+LP002840,Jane,Clark,Female,39,No,0,Graduate,No,2378,0,9,9000,360,1,Urban,N,33031,Homestead,25.52,-80.5
+LP002894,Janet,Bennett,Female,40,Yes,0,Graduate,No,3166,0,36,36000,360,1,Semiurban,Y,33131,Miami,25.77,-80.18
+LP002917,Janice,Harris,Female,47,No,0,Not Graduate,No,2165,0,70,70000,360,1,Semiurban,Y,33136,Miami,25.79,-80.2
+LP002949,Jasmine,Edwards,Female,40,No,3+,Graduate,,416,41667,350,350000,180,,Urban,N,33158,Miami,25.64,-80.31
+LP002959,Jenna,Powell,Female,30,Yes,1,Graduate,No,12000,0,496,496000,360,1,Semiurban,Y,33166,Miami,25.82,-80.3
+LP002978,Jennifer,Gonzales,Female,43,No,0,Graduate,No,2900,0,71,71000,360,1,Rural,Y,33172,Miami,25.79,-80.36
+LP002990,Jessica,Roberts,Female,44,No,0,Graduate,Yes,4583,0,133,133000,360,0,Semiurban,N,33176,Miami,25.66,-80.36
